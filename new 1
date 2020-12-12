@@ -746,242 +746,261 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",WOWOW CINEMA
 http://203.162.235.41:16916
 
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Netflix 1
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/66.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Netflix 2
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/69.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Netflix 3
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/64.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Netflix 4
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/63.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Netflix 5
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/68.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Flix Demo
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Warner tv
-http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Hollywood HD
-http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Cinemax US
-http://51.161.84.66:8080/US_SD_Cinemax/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", BBC America
-http://51.161.84.66:8080/US_SD_BBC_America_SD/index.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Epix USA
-http://51.79.82.231:8080/US_EPIX_USA/video.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Catch Up Lifetime
-http://51.161.84.67/CATCHUP_LIFETIME/video.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", FXX East
-http://51.79.82.231:8080/US_FXX_EAST_USA/video.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", SY FY
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", AXN
-http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", Family HD
-http://178.63.48.23:25461/live/netott/nFu0mOB8pm/67.ts
-#EXTINF:1 tvg-id="ext" group-title="NETFLIX", X-Thriller
-http://fariszah.myq-see.com:8008/live/demo/demo/21564.ts
 
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", NET TV
+http://185.238.0.145:1313/c/max/nettv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Channel4U
+http://185.238.0.145:1313/c/max/channel4u-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", TIC
+http://185.238.0.145:1313/c/max/tic-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", UseePrime
+http://185.238.0.145:1313/c/max/useeprime-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", UseePhoto
+http://185.238.0.145:1313/c/max/useephoto-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Ruang Terampil
+http://185.238.0.145:1313/c/max/ruangtrampil-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", BaliTV
+http://185.238.0.145:1313/c/max/balitv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", TVEdukasi
+http://185.238.0.145:1313/c/max/tvedukasi-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", DGTV
+http://185.238.0.145:1313/c/max/dgtv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", MetroTV
+http://185.238.0.145:1313/c/max/metrotv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", KompasTV
+http://185.238.0.145:1313/c/max/kompastv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", SeaToday
+http://185.238.0.145:1313/c/max/idku-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Prambors
+http://185.238.0.145:1313/c/max/prambors-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", MtATV
+http://185.238.0.145:1313/c/max/mtatv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", RodjaTV
+http://185.238.0.145:1313/c/max/rodjatv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Mytv
+http://185.238.0.145:1313/c/max/mytv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Max2U
+http://185.238.0.145:1313/c/max/max2u-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", JTV
+http://185.238.0.145:1313/c/max/jtv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Maxstream-Music
+http://185.238.0.145:1313/c/max/maxstreammusic-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", MCC
+http://185.238.0.145:1313/c/max/mcc-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", JakTV
+http://185.238.0.145:1313/c/max/jaktv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", DigiOne
+http://185.238.0.145:1313/c/max/digione-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Magna
+http://185.238.0.145:1313/c/max/magna-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", LombokTV
+http://185.238.0.145:1313/c/max/lomboktv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://photos.my.id/images/f99j.png" group-title="MAXSTREAM", Hi
+http://185.238.0.145:1313/c/max/hi-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",OXYGEN.ID
+https://m3u-editor.com/serve/oxy/146945361.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",MATRIX TV
+https://m3u-editor.com/serve/oxy/146945373.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",NET TV
+https://m3u-editor.com/serve/oxy/146945363.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",METRO TV
+https://m3u-editor.com/serve/oxy/146945364.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",Magnatv
+https://m3u-editor.com/serve/oxy/146945362.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TVRI NASIONAL
+https://m3u-editor.com/serve/oxy/146945365.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",SCTV
+https://m3u-editor.com/serve/oxy/146945366.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TRANS 7
+https://m3u-editor.com/serve/oxy/146945367.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TRANS TV
+https://m3u-editor.com/serve/oxy/146945368.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",INDOSIAR
+https://m3u-editor.com/serve/oxy/146945369.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",ANTV
+https://m3u-editor.com/serve/oxy/146945370.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/oxygen.png" group-title="OXYGEN", OXYGEN.ID
-http://103.130.186.138:8800/oxygenplay/oxygentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TV ONE
+https://m3u-editor.com/serve/oxy/146945371.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png" group-title="OXYGEN", NET TV
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",JAK TV
+https://m3u-editor.com/serve/oxy/146945372.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg" group-title="OXYGEN", METRO TV
-http://103.130.186.138:8800/oxygenplay/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",LEJEL HS
+https://m3u-editor.com/serve/oxy/146945374.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg" group-title="OXYGEN", TVRI NASIONAL
-http://103.130.186.138:8800/oxygenplay/tvri/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",NUSANTARA TV
+https://m3u-editor.com/serve/oxy/146945375.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png" group-title="OXYGEN", SCTV
-http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",KOMPAS TV
+https://m3u-editor.com/serve/oxy/146945376.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png" group-title="OXYGEN", TRANS 7
-http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",RTV
+https://m3u-editor.com/serve/oxy/146945377.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png" group-title="OXYGEN", TRANS TV
-http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",O CHANNEL
+https://m3u-editor.com/serve/oxy/146945378.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/38b921488d46eff4c6d6.png" group-title="OXYGEN", INDOSIAR
-http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",SALAM TV
+https://m3u-editor.com/serve/oxy/146945379.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png" group-title="OXYGEN", ANTV
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",RODJA TV
+https://m3u-editor.com/serve/oxy/146945380.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c9917a03b2b782028515.png" group-title="OXYGEN", TV ONE
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",DAAI INDONESIA
+https://m3u-editor.com/serve/oxy/146945381.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg" group-title="OXYGEN", JAK TV
-http://103.130.186.138:8800/oxygenplay/jaktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",QUR'AN TV
+https://m3u-editor.com/serve/oxy/146945382.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/797226b837e2ea8f087d.jpg" group-title="OXYGEN", MATRIX TV
-http://103.130.186.138:8800/oxygenplay/matrixtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TAWAF TV
+https://m3u-editor.com/serve/oxy/146945383.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6fec4c98cea3945097dd.jpg" group-title="OXYGEN", LEJEL HS
-http://103.130.186.138:8800/oxygenplay/lejelhs/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",BERITA SATU
+https://m3u-editor.com/serve/oxy/146945384.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/52bec920962e5b131d18.png" group-title="OXYGEN", NUSANTARA TV
-http://103.130.186.138:8800/oxygenplay/nusantaratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",iNews TV
+https://m3u-editor.com/serve/oxy/146945385.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d8611b639307ee6fce8e.png" group-title="OXYGEN", KOMPAS TV
-http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CNBC INDONESIA
+https://m3u-editor.com/serve/oxy/146945386.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c10eb710b32d995c32eb.png" group-title="OXYGEN", RTV
-http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",SPACETOON
+https://m3u-editor.com/serve/oxy/146945387.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2c6b74b452fa9cf7da7f.png" group-title="OXYGEN", O CHANNEL
-http://103.130.186.138:8800/oxygenplay/ochannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TV EDUKASI
+https://m3u-editor.com/serve/oxy/146945388.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d7f85c7abb6523aa7739.png" group-title="OXYGEN", NHK WORLD (HD)
-http://103.130.186.138:8800/oxygenplay/nhkworld/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",NHK WORLD
+https://m3u-editor.com/serve/oxy/146945389.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/bd61ea4a4529b624be6b.png" group-title="OXYGEN", PHOENIX HK
-http://103.130.186.138:8800/oxygenplay/phoenixhongkong/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",ARIRANG WORLD
+https://m3u-editor.com/serve/oxy/146945390.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2d979d476997759e33cb.jpg" group-title="OXYGEN", DW TV ASIA
-http://103.130.186.138:8800/oxygenplay/dwenglish/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CCTV 4
+https://m3u-editor.com/serve/oxy/146945391.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3795b204fc8397d37b67.jpg" group-title="OXYGEN", FRANCE 24
-http://103.130.186.138:8800/oxygenplay/france24/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TV5 MONDE
+https://m3u-editor.com/serve/oxy/146945392.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/28521944ef3ed83e91f3.png" group-title="OXYGEN", ARIRANG WORLD
-http://103.130.186.138:8800/oxygenplay/arirangworld/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",PHOENIX HK
+https://m3u-editor.com/serve/oxy/146945393.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3262a3392d5e1d28185d.jpg" group-title="OXYGEN", CCTV 4
-http://103.130.186.138:8800/oxygenplay/cctv4asia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",DW TV ASIA
+https://m3u-editor.com/serve/oxy/146945394.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/801ce5b3d197a0392f7d.png" group-title="OXYGEN", VOA
-http://103.130.186.138:8800/oxygenplay/voa/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",FRANCE 24
+https://m3u-editor.com/serve/oxy/146945395.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6757809d28dd78212e2a.jpg" group-title="OXYGEN", RAI ITALIA
-http://103.130.186.138:8800/oxygenplay/raiitalia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",VOA
+https://m3u-editor.com/serve/oxy/146945396.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e2f668b3dafde7e16652.jpg" group-title="OXYGEN", CETV 1
-http://103.130.186.138:8800/oxygenplay/cetv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",AL JAZEERA
+https://m3u-editor.com/serve/oxy/146945397.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d0f387d13c1687a7a818.jpg" group-title="OXYGEN", TVE ASIA
-http://103.130.186.138:8800/oxygenplay/tveasia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TRT WORLD
+https://m3u-editor.com/serve/oxy/146945398.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cfc5d67a54f4e9d00f13.png" group-title="OXYGEN", TV5 MONDE
-http://103.130.186.138:8800/oxygenplay/tv5monde/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",PHOENIX CHINESE
+https://m3u-editor.com/serve/oxy/146945399.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ce7793eda5c21349da6a.jpg" group-title="OXYGEN", CGTN DOCUMENTARY
-http://103.130.186.138:8800/oxygenplay/cgtndocumentary/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CHANNEL NEWS ASIA
+https://m3u-editor.com/serve/oxy/146945400.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/71b6548371859e81ff04.png" group-title="OXYGEN", SALAM TV
-http://103.130.186.138:8800/oxygenplay/salamtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",RUSSIA TODAY (HD)
+https://m3u-editor.com/serve/oxy/146945401.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7828d7728db98a50b2e9.png" group-title="OXYGEN", RODJA TV
-http://103.130.186.138:8800/oxygenplay/rodjatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",PHOENIX INFO NEWS (HD)
+https://m3u-editor.com/serve/oxy/146945402.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/f3cb80ed481c8de3b5f2.png" group-title="OXYGEN", U CHANNEL
-http://103.130.186.138:8800/oxygenplay/uchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",EURONEWS
+https://m3u-editor.com/serve/oxy/146945403.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e4dfde2c20583ebd204.png" group-title="OXYGEN", DAAI INDONESIA
-http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CGTN
+https://m3u-editor.com/serve/oxy/146945404.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aeee256d1b828f156211.jpg" group-title="OXYGEN", QUR'AN TV
-http://103.130.186.138:8800/oxygenplay/qurantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TVB NEWS
+https://m3u-editor.com/serve/oxy/146945405.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e958c74a40131ba7121.jpg" group-title="OXYGEN", TAWAF TV
-http://103.130.186.138:8800/oxygenplay/tawaftv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",BLOOMBERG
+https://m3u-editor.com/serve/oxy/146945406.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e1a7e570bc390f9ef9b.jpg" group-title="OXYGEN", BERITA SATU
-http://103.130.186.138:8800/oxygenplay/beritasatu/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CNBC
+https://m3u-editor.com/serve/oxy/146945407.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b82707dfbb58ee23c108.jpg" group-title="OXYGEN", iNews TV
-http://103.130.186.138:8800/oxygenplay/inews/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",RAI ITALIA
+https://m3u-editor.com/serve/oxy/146945408.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8543486df8c9d785112.png" group-title="OXYGEN", CNBC INDONESIA
-http://103.130.186.138:8800/oxygenplay/cnbcindonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CETV 1
+https://m3u-editor.com/serve/oxy/146945409.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e6dc9e1f7a81aa26de2.jpg" group-title="OXYGEN", AL JAZEERA
-http://103.130.186.138:8800/oxygenplay/aljazeera/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TVE ASIA
+https://m3u-editor.com/serve/oxy/146945410.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c0582b75e7f1d54d62a4.jpg" group-title="OXYGEN", TRT WORLD
-http://103.130.186.138:8800/oxygenplay/trtworld/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",B4U MOVIE
+https://m3u-editor.com/serve/oxy/146945411.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/a8562fa41083c12cac32.jpg" group-title="OXYGEN", PHOENIX CHINESE
-http://103.130.186.138:8800/oxygenplay/phoenixchinese/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",XING KONG CHINA
+https://m3u-editor.com/serve/oxy/146945412.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e23b41820e0eff52868.png" group-title="OXYGEN", CHANNEL NEWS ASIA
-http://103.130.186.138:8800/oxygenplay/channelnewsasia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",LOTUS MACAU
+https://m3u-editor.com/serve/oxy/146945413.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20974d1ab7de157e95d3.png" group-title="OXYGEN", RUSSIA TODAY (HD)
-http://103.130.186.138:8800/oxygenplay/russiatoday/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",DRAKOR
+https://m3u-editor.com/serve/oxy/146945414.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5e09e6da956848188d3c.png" group-title="OXYGEN", PHOENIX INFO NEWS (HD)
-http://103.130.186.138:8800/oxygenplay/phoenixnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",FASHION TV
+https://m3u-editor.com/serve/oxy/146945415.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e4afd29602b1de683cf.png" group-title="OXYGEN", EURONEWS
-http://103.130.186.138:8800/oxygenplay/euronewsasia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",K DRAMA
+https://m3u-editor.com/serve/oxy/146945416.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/87e30aa5de2af8c31382.jpg" group-title="OXYGEN", CGTN
-http://103.130.186.138:8800/oxygenplay/cgtn/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CHANNEL V CHINA
+https://m3u-editor.com/serve/oxy/146945417.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/8b85d40c59df3e036194.jpe" group-title="OXYGEN", TVB NEWS
-http://103.130.186.138:8800/oxygenplay/tvbnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",CGTN DOCUMENTARY
+https://m3u-editor.com/serve/oxy/146945418.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c52785e9c70bc6e38556.png" group-title="OXYGEN", BLOOMBERG
-http://103.130.186.138:8800/oxygenplay/bloomberg/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",GO TO LUXE
+https://m3u-editor.com/serve/oxy/146945419.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20f4250451a65d27750e.jpg" group-title="OXYGEN", CNBC
-http://103.130.186.138:8800/oxygenplay/cnbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",B4U MUSIC
+https://m3u-editor.com/serve/oxy/146945420.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/dfe1b00e05f7a1a07edc.jpg" group-title="OXYGEN", SINEMA INDONESIA
-http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",MTV CHINA
+https://m3u-editor.com/serve/oxy/146945421.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/9fbec8d89033a1fbaeb4.jpg" group-title="OXYGEN", SINEMA INDONESIA X
-http://103.130.186.138:8800/oxygenplay/sinemaindonesia-x/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TOONMAX
+https://m3u-editor.com/serve/oxy/146945422.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1516cfff880cf8f05772.jpg" group-title="OXYGEN", B4U MOVIES
-http://103.130.186.138:8800/oxygenplay/b4umovieindia/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",TVRI SPORT
+https://m3u-editor.com/serve/oxy/146945423.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6a2818cb3b25880863df.png" group-title="OXYGEN", XING KONG CHINA
-http://103.130.186.138:8800/oxygenplay/xingkong/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",SPORT ONE
+https://m3u-editor.com/serve/oxy/146945424.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/fbd60061e32ee1d47ef7.png" group-title="OXYGEN", LOTUS MACAU
-http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",AL KASS TWO
+https://m3u-editor.com/serve/oxy/146945425.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/690bf312c6d80d78616a.png" group-title="OXYGEN", DRAKOR
-http://103.130.186.138:8800/oxygenplay/drakorplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",DUBAI SPORTS 3
+https://m3u-editor.com/serve/oxy/146945426.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cc206a4b878ea6199f19.jpg" group-title="OXYGEN", FASHION TV
-http://103.130.186.138:8800/oxygenplay/fashiontv/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",BN TV
+https://m3u-editor.com/serve/8a4433b0/147346680.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/997f8f4276359bbba313.jpg" group-title="OXYGEN", K DRAMA
-http://103.130.186.138:8800/oxygenplay/k-drama/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",NIHON TV
+https://m3u-editor.com/serve/8a4433b0/147346681.m3u8
 
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d3ee85a036b7269bf021.png" group-title="OXYGEN", GO TO LUXE
-http://103.130.186.138:8800/oxygenplay/gotoluxe/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/4361f515f6f4713d61e8.png" group-title="OXYGEN", CHANNEL V CHINA
-http://103.130.186.138:8800/oxygenplay/vchina/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png" group-title="OXYGEN", B4U MUSIC
-http://103.130.186.138:8800/oxygenplay/b4umusicindia/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b7e28ec799d372608cb5.png" group-title="OXYGEN", MTV CHINA
-http://103.130.186.138:8800/oxygenplay/mtvchina/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba0708dd596e739e5a1c.jpg" group-title="OXYGEN", SPACETOON
-http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/0eb528acf376b17cc57f.png" group-title="OXYGEN", TV EDUKASI
-http://103.130.186.138:8800/oxygenplay/tvedukasi/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png" group-title="OXYGEN", TOONMAX
-http://103.130.186.138:8800/oxygenplay/toonmax/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7176cb92ce7b1f9b40b0.png" group-title="OXYGEN", TVRI SPORT
-http://103.130.186.138:8800/oxygenplay/tvrisport/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/248973fc8f7c29f3df72.jpg" group-title="OXYGEN", SPORT ONE
-http://103.130.186.138:8800/oxygenplay/sportone/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8b160572e513f2f2858.png" group-title="OXYGEN", AL KASS TWO
-http://103.130.186.138:8800/oxygenplay/alkasstwo/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg" group-title="OXYGEN", DUBAI SPORTS 3
-http://103.130.186.138:8800/oxygenplay/dubaisport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="OXYGEN",EBS KIDS
+https://m3u-editor.com/serve/8a4433b0/147346682.m3u8

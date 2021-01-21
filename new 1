@@ -385,6 +385,136 @@ https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
 http://iptv.zqstream.com/zqsport-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
 
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Premier HD1
+http://160.119.77.116:8081/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Premier HD2
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Premier HD3
+http://160.119.77.116:8081/iptv/epl-3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Premier HD4
+http://160.119.77.116:8081/iptv/epl-4.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Premier HD5
+http://160.119.77.116:8081/iptv/epl-5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_Premier 1
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_Premier 2
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_Premier 3
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_Premier 4
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl4_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_Premier 5
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 1
+http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 2
+http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 3
+http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 4
+http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 5
+http://103.208.24.234:1935/thaisport/hd-tsport5.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 6
+http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", true Sports 7
+http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", astro SuperSport 1
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", astro SuperSport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_astro SuperSport 1
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_astro SuperSport 2
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_astro SuperSport 3
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", test_astro SuperSport 4
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", BT SPORTS 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", BT SPORTS 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", BT SPORTS 3
+http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Premier
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Football
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports News
+https://laos-tech-live.b-cdn.net/uk-skysports-news_480/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Even
+http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Mix
+http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Arena
+http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Golf
+http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Action
+http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Cricket
+http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Sports Bundesliga
+http://160.119.77.116:8081/iptv/de-skybundesliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", PREMIER SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Fox Sports 1
+http://160.119.77.116:8081/iptv/hd-foxsports1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Fox Sports 2
+http://160.119.77.116:8081/iptv/hd-foxsports2eng.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Fox Sports 3
+http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", SPORTS TV1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", SPORTS TV2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", SPORTS TV3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", SPORTS TV4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", SPORTS TV5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", NBA TV
+https://laos-tech-live.b-cdn.net/hd-nba_720/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 1
+http://160.119.77.116:8081/iptv/hd-bein1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 2
+http://160.119.77.116:8081/iptv/hd-bein2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 3
+http://160.119.77.116:8081/iptv/hd-bein3.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 4
+http://160.119.77.116:8081/iptv/hd-bein4.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 5
+http://160.119.77.116:8081/iptv/hd-bein5.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 6
+http://160.119.77.116:8081/iptv/hd-bein6.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 7
+http://160.119.77.116:8081/iptv/hd-bein7.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 8
+http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 9
+http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 10
+http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Golf Channel
+https://laos-tech-live.b-cdn.net/hd-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Euro Sport 1
+https://laos-tech-live.b-cdn.net/uk-eurosport_480/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Euro Sport 2
+https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
+
+
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",DAAI TV
 http://210.210.155.35/session/c32b3aa8-7e14-11ea-a861-b82a72d63267/qwr9ew/s/s13/02.m3u8
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://i.imgur.com/A4oAMGm.png",ELSHINTA

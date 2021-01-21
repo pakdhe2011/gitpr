@@ -115,17 +115,17 @@ http://93.190.139.34:8278/streams/d/JTV_eko/playlist.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",O Channel
 http://93.190.139.34:8278/streams/d/OChannel_eko/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",Bali tv,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",Bali tv
 http://93.190.139.34:8278/streams/d/Balitv/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",BandungTV,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",BandungTV
 http://93.190.139.34:8278/streams/d/BandungTV_eko/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",TVMU,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",TVMU
 http://93.190.139.34:8278/streams/d/TVMU_eko/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",PijarTV,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",PijarTV
 http://93.190.139.34:8278/streams/d/PijarTV_eko/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",UTV,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",UTV
 http://93.190.139.34:8278/streams/d/utv_eko/playlist.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",MYTV,
+#EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",MYTV
 http://93.190.139.34:8278/streams/d/MYTV_eko/playlist.m3u8
 
 

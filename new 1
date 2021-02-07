@@ -21,7 +21,7 @@ http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1156034780_b628000_sleng.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png",METRO TV (HD)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (HD)
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
@@ -450,6 +450,351 @@ http://160.119.77.116:8081/iptv/hd-bein8.stream/chunks.m3u8
 http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 10
 http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="CBN DENS",STYLE
+http://rr.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FIGHT SPORTS
+http://rr.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KIX
+http://rr.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",K+
+http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr.dens.tv/h/h11/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAEUROPE
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY GEM
+http://rr.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
+http://rr.dens.tv/h/h22/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",NHK WORLD
+http://rr.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
+http://rr.dens.tv/h/h28/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",HITS
+http://rr.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",AXN
+http://rr.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY ONE
+http://rr.dens.tv/h/h143/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIMAX
+http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
+http://rr2.dens.tv/s/s10/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RODJATV
+http://rr2.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
+http://rr2.dens.tv/s/s16/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
+http://rr2.dens.tv/s/s17/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CCTV4
+http://rr2.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CGTN
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX
+http://rr2.dens.tv/s/s21/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FRANCE24
+http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RT
+http://rr2.dens.tv/s/s23/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TV5MONDE
+http://rr2.dens.tv/s/s24/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DWTV
+http://rr2.dens.tv/s/s26/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Sunna TV
+http://rr2.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Quran TV
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTP
+http://rr2.dens.tv/s/s38/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr2.dens.tv/s/s39/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",U CHANNEL
+http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",LEJEL
+http://rr2.dens.tv/s/s42/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyTV
+http://rr2.dens.tv/s/s46/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TOONMAX
+http://rr2.dens.tv/s/s50/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANS7
+http://rr2.dens.tv/s/s101/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
+http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr3.dens.tv/s/s72/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANS7
+http://rr3.dens.tv/s/s73/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr3.dens.tv/s/s81/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr3.dens.tv/s/s83/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr3.dens.tv/s/s84/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr3.dens.tv/s/s85/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr3.dens.tv/s/s86/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr3.dens.tv/s/s87/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyCINEMA
+http://rr.dens.tv/h/h90/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",MKIDZ
+http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s35/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr3.dens.tv/s/s36/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",Live Streaming
+http://rr3.dens.tv/s/s37/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s102/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s113/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",UA
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TESTHD
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",DUBAI
+http://rr.dens.tv/h/h152/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TELENOVELA
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",FILMY
+http://rr.dens.tv/h/h154/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRT WORLD
+http://rr.dens.tv/h/h156/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX CHINESE
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",BALI TV
+http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",JTV
+http://rr3.dens.tv/s/s91/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",STAR
+http://rr3.dens.tv/s/s94/index2.m3u8
+
+#EXTINF:-1 group-title="MKCTV",Oxygen TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=oxygentv
+#EXTINF:-1 group-title="MKCTV",NET.
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nettv
+#EXTINF:-1 group-title="MKCTV",METRO TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=metrotv
+#EXTINF:-1 group-title="MKCTV",TVRI
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvri
+#EXTINF:-1 group-title="MKCTV",SCTV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sctv
+#EXTINF:-1 group-title="MKCTV",TRANS TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=transtv
+#EXTINF:-1 group-title="MKCTV",INDOSIAR
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=indosiar
+#EXTINF:-1 group-title="MKCTV",ANTV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=antv
+#EXTINF:-1 group-title="MKCTV",TV ONE
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvone
+#EXTINF:-1 group-title="MKCTV",JAKTV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=jaktv
+#EXTINF:-1 group-title="MKCTV",MATRIX TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=matrixtv
+#EXTINF:-1 group-title="MKCTV",LEJEL HS
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lejelhs
+#EXTINF:-1 group-title="MKCTV",NUSANTARA TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nusantaratv
+#EXTINF:-1 group-title="MKCTV",KOMPAS TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=kompastv
+#EXTINF:-1 group-title="MKCTV",RTV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rtv
+#EXTINF:-1 group-title="MKCTV",O CHANNEL
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=ochannel
+#EXTINF:-1 group-title="MKCTV",NHK WORLD
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nhkworld
+#EXTINF:-1 group-title="MKCTV",PHOENIX HK
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixhongkong
+#EXTINF:-1 group-title="MKCTV",DW TV ASIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=dwenglish
+#EXTINF:-1 group-title="MKCTV",FRANCE 24
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=france24
+#EXTINF:-1 group-title="MKCTV",ARIRANG
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=arirangworld
+#EXTINF:-1 group-title="MKCTV",CCTV4
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cctv4asia
+#EXTINF:-1 group-title="MKCTV",VOA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=voa
+#EXTINF:-1 group-title="MKCTV",RAI ITALIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=raiitalia
+#EXTINF:-1 group-title="MKCTV",CETV 1
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cetv1
+#EXTINF:-1 group-title="MKCTV",TVE ASIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tveasia
+#EXTINF:-1 group-title="MKCTV",TV5MONDE
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tv5monde
+#EXTINF:-1 group-title="MKCTV",CGTN DOCUMENTARY
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtndocumentary
+#EXTINF:-1 group-title="MKCTV",SALAM TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=salamtv
+#EXTINF:-1 group-title="MKCTV",RODJA TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rodjatv
+#EXTINF:-1 group-title="MKCTV",DAAI TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=daaitv
+#EXTINF:-1 group-title="MKCTV",QUR'AN TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=qurantv
+#EXTINF:-1 group-title="MKCTV",TAWAF TV
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tawaftv
+#EXTINF:-1 group-title="MKCTV",BERITA SATU
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=beritasatu
+#EXTINF:-1 group-title="MKCTV",iNews
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=inews
+#EXTINF:-1 group-title="MKCTV",CNBC INDONESIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbcindonesia
+#EXTINF:-1 group-title="MKCTV",AL JAZEERA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=aljazeera
+#EXTINF:-1 group-title="MKCTV",PHOENIX CHINESE
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixchinese
+#EXTINF:-1 group-title="MKCTV",CHANNEL NEWS ASIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=channelnewsasia
+#EXTINF:-1 group-title="MKCTV",RUSSIA TODAY
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=russiatoday
+#EXTINF:-1 group-title="MKCTV",PHOENIX INFO NEWS
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixnews
+#EXTINF:-1 group-title="MKCTV",EURONEWS
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=euronewsasia
+#EXTINF:-1 group-title="MKCTV",CGTN
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtn
+#EXTINF:-1 group-title="MKCTV",TVB NEWS
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvbnews
+#EXTINF:-1 group-title="MKCTV",BLOOMBERG
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=bloomberg
+#EXTINF:-1 group-title="MKCTV",CNBC
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbc
+#EXTINF:-1 group-title="MKCTV",SINEMA INDONESIA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia
+#EXTINF:-1 group-title="MKCTV",SINEMA INDONESIA X
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia-x
+#EXTINF:-1 group-title="MKCTV",B4U MOVIES
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umovieindia
+#EXTINF:-1 group-title="MKCTV",XING KONG CHINA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=xingkong
+#EXTINF:-1 group-title="MKCTV",LOTUS MACAU
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lotusmacau
+#EXTINF:-1 group-title="MKCTV",Drakor Plus
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=drakorplus
+#EXTINF:-1 group-title="MKCTV",K DRAMA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=k-drama
+#EXTINF:-1 group-title="MKCTV",GO TO LUXE
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=gotoluxe
+#EXTINF:-1 group-title="MKCTV",CHANNEL V CHINA
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=vchina
+#EXTINF:-1 group-title="MKCTV",B4U MUSIC
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umusicindia
+#EXTINF:-1 group-title="MKCTV",SPACETOON
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=spacetoon
+#EXTINF:-1 group-title="MKCTV",TV EDUKASI
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvedukasi
+#EXTINF:-1 group-title="MKCTV",TOONMAX
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=toonmax
+#EXTINF:-1 group-title="MKCTV",TVRI SPORT
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvrisport
+#EXTINF:-1 group-title="MKCTV",SPORT ONE
+http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sportone
+
+#EXTINF:-1 group-title="MAXSTREAM",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",MYTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Hi Indo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",MAX2U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a7dd6824-bdac-4db9-af88-7adc5fb674b4)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",MAXSTREAM Music
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",JAKTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",TechStorm
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",Heroez Arena Jawa Bali
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(857b8f86-28e4-4246-a4bf-86e9cd67dabe)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 group-title="MAXSTREAM",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",DAAI TV

@@ -9,12 +9,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b192000_sleng.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV (HD)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR
 http://rr2.dens.tv/s/s04/02.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (HD)
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/02.m3u8
 
@@ -24,13 +24,13 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1156034780
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (HD)
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png",NET.
 http://45.126.83.51/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (HD)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_768000=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_rtv_big1.png",RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/02.m3u8
@@ -128,233 +128,6 @@ http://93.190.139.34:8278/streams/d/utv_eko/playlist.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL (2)" tvg-logo="",MYTV
 http://93.190.139.34:8278/streams/d/MYTV_eko/playlist.m3u8
 
-#EXTM3U
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/abcaustralia.png",ABC Australia
-http://ironman.my.id/m3u/usee-abcaustralia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mekkah.png",AL Quran AL Kareem
-http://ironman.my.id/m3u/usee-alqurantv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aljazeera.png",Aljazeera
-http://ironman.my.id/m3u/usee-aljazeera.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/animax.png",Animax
-http://ironman.my.id/m3u/usee-animax.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aniplus.png",Aniplus
-http://ironman.my.id/m3u/usee-aniplus.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/antara.png",Antara
-http://ironman.my.id/m3u/usee-antara.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png",Arirang
-http://ironman.my.id/m3u/usee-arirang.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/afn.png",Asian Food Network
-http://ironman.my.id/m3u/usee-afc.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/axn.png",AXN
-http://ironman.my.id/m3u/usee-axn.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/babyfirst.png",Baby First
-http://ironman.my.id/m3u/usee-babyfirst.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/balitv.png",Bali TV
-http://ironman.my.id/m3u/usee-balitv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports1.png",beIN Sport 1
-http://ironman.my.id/m3u/usee-bein1.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/beinsports2.png",beIN Sport 2
-http://ironman.my.id/m3u/usee-bein2.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png",Berita Satu
-http://ironman.my.id/m3u/usee-beritasatu.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bioskopindo.png",Bioskop Indonesia
-http://ironman.my.id/m3u/usee-bioskopindonesia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png",Bloomberg
-http://ironman.my.id/m3u/usee-bloomberg.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/blueantextreme.png",Blue Ant Extreme
-http://ironman.my.id/m3u/usee-blueantextreme.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/boomerang.png",Boomerang
-http://ironman.my.id/m3u/usee-boomerang.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cartoonnetwork.png",Cartoon Network
-http://ironman.my.id/m3u/usee-cartoonnetwork.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cctv4.png",CCTV4
-http://ironman.my.id/m3u/usee-cctv4.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cm.png",Celestial Movie
-http://ironman.my.id/m3u/usee-celestialmovie.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/champions1.png",Champion TV 1
-http://ironman.my.id/m3u/usee-champion1.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/champions2.png",Champion TV 2
-http://ironman.my.id/m3u/usee-champion2.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/chinesedrama.png",Chinese Drama
-http://ironman.my.id/m3u/usee-chinesedrama.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cinemaworld.png",Cinema World
-http://ironman.my.id/m3u/usee-cinemaworld.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/citradangdut.png",Citra Dangdut
-http://ironman.my.id/m3u/usee-citradangdut.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/citradrama.png",Citra Drama
-http://ironman.my.id/m3u/usee-cdrama.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png",CNA
-http://ironman.my.id/m3u/usee-newsasia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png",CNBC Asia
-http://ironman.my.id/m3u/usee-cnbcasia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png",CNBC Indonesia
-http://ironman.my.id/m3u/usee-cnbcindonesia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnnindo.png",CNN Indonesia
-http://ironman.my.id/m3u/usee-cnnindonesia.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/davincilearning.png",Da Vinci Learning
-http://ironman.my.id/m3u/usee-davinci.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png",Daai TV
-http://ironman.my.id/m3u/usee-daaitv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/discoverychannel.png",Discovery Channel
-http://ironman.my.id/m3u/usee-disco.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dreamworks.png",Dreamworks
-http://ironman.my.id/m3u/usee-dreamworks.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ducktv.png",Duck TV
-http://ironman.my.id/m3u/usee-ducktv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/duniaanak.png",Dunia Anak
-http://ironman.my.id/m3u/usee-duniaanak.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dunialain.png",Dunia Lain
-http://ironman.my.id/m3u/usee-dunialain.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dw.png",DW (English)
-http://ironman.my.id/m3u/usee-dwtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/eatgo.png",Eat & Go
-http://ironman.my.id/m3u/usee-eatgo.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/egg.png",eGG TV
-http://ironman.my.id/m3u/usee-egg.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/eljohn.png",El John TV
-http://ironman.my.id/m3u/usee-eljohn.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png",EuroNews
-http://ironman.my.id/m3u/usee-euronews.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/flik.png",Flik
-http://ironman.my.id/m3u/usee-flik.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports1.png",Fox Sport 1
-http://ironman.my.id/m3u/usee-foxsport1.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports2.png",Fox Sport 2
-http://ironman.my.id/m3u/usee-foxsport2.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/foxsports3.png",Fox Sport 3
-http://ironman.my.id/m3u/usee-foxsport3.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/france24.png",France 24
-http://ironman.my.id/m3u/usee-france24.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/galaxy.png",Galaxy
-http://ironman.my.id/m3u/usee-galaxy.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/galaxypremium.png",Galaxy Premium
-http://ironman.my.id/m3u/usee-galaxypremium.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/golf.png",Golf
-http://ironman.my.id/m3u/usee-golfplus.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/hgtv.png",HGTV
-http://ironman.my.id/m3u/usee-hgtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/history.png",History
-http://ironman.my.id/m3u/usee-history.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/horee.png",Horee
-http://ironman.my.id/m3u/usee-horee.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/idx.png",IDX
-http://ironman.my.id/m3u/usee-idx.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ikonser.png",iKONSER
-http://ironman.my.id/m3u/usee-ikonser.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/imc.png",IMC
-http://ironman.my.id/m3u/usee-imc.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/indishoping.png",Indihome Shopping
-http://ironman.my.id/m3u/usee-indishopping.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png",Indosiar
-http://ironman.my.id/m3u/usee-indosiar.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/insert.png",Insert
-http://ironman.my.id/m3u/usee-insert.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png",JakTV
-http://ironman.my.id/m3u/usee-jaktv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/jitv.png",JITV
-http://ironman.my.id/m3u/usee-jitv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png",JTV
-http://ironman.my.id/m3u/usee-jtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/kplus.png",K+
-http://ironman.my.id/m3u/usee-kplus.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/kbsworld.png",KBS World
-http://ironman.my.id/m3u/usee-kbsworld.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/kix.png",Kix
-http://ironman.my.id/m3u/usee-kix.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png",Kompas TV
-http://ironman.my.id/m3u/usee-kompastv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lifetime.png",Lifetime
-http://ironman.my.id/m3u/usee-lifetime.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lingua.png",Lingua
-http://ironman.my.id/m3u/usee-lingua.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mkidz.png",M Kidz
-http://ironman.my.id/m3u/usee-mykids.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mshop.png",M Shop
-http://ironman.my.id/m3u/usee-mncshop.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png",Metro TV
-http://ironman.my.id/m3u/usee-metrotv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mqtv.png",MQTV
-http://ironman.my.id/m3u/usee-mqtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mta.png",MTA TV
-http://ironman.my.id/m3u/usee-mtatv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtv.png",MTV Live
-http://ironman.my.id/m3u/usee-mtvlive.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvmu.png",Muhammadiyah TV
-http://ironman.my.id/m3u/usee-muhammadiyahtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mui.png",MUI TV
-http://ironman.my.id/m3u/usee-muitv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/natgeopeople.png",Nat Geo People
-http://ironman.my.id/m3u/usee-natgeopeople.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/natgeowild.png",Nat Geo Wild
-http://ironman.my.id/m3u/usee-natgeowild.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ngc.png",National Geographic
-http://ironman.my.id/m3u/usee-natgeo.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nba.png",NBA
-http://ironman.my.id/m3u/usee-nba.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png",Net.
-http://ironman.my.id/m3u/usee-net.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nhkworld.png",NHK World Japan
-http://ironman.my.id/m3u/usee-nhkworld.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nickjr.png",Nick Junior
-http://ironman.my.id/m3u/usee-nickjr.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nickelodeon.png",Nickelodeon
-http://ironman.my.id/m3u/usee-nickelodeon.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ntv.png",NusantaraTV
-http://ironman.my.id/m3u/usee-nusantaratv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/outdoor.png",Outdoor Channel
-http://ironman.my.id/m3u/usee-outdoor.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/prambors.png",Prambors
-http://ironman.my.id/m3u/usee-pramborstv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png",Rajawali TV
-http://ironman.my.id/m3u/usee-rtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png",Rodja TV
-http://ironman.my.id/m3u/usee-rodjatv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rri.png",RRI NET
-http://ironman.my.id/m3u/usee-rrinet.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png",SCTV
-http://ironman.my.id/m3u/usee-sctv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/seatoday.png",SEA TODAY
-http://ironman.my.id/m3u/usee-seatoday.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/gem.png",Sony GEM TV
-http://ironman.my.id/m3u/usee-sgem.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sonyone.png",Sony One
-http://ironman.my.id/m3u/usee-sone.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png",Tawaf TV
-http://ironman.my.id/m3u/usee-tawaftv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/thrill.png",Thrill
-http://ironman.my.id/m3u/usee-thrill.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png",Trans7
-http://ironman.my.id/m3u/usee-trans7.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png",TransTV
-http://ironman.my.id/m3u/usee-transtv.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png",TRT World
-http://ironman.my.id/m3u/usee-trtworld.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png",TV Edukasi
-http://ironman.my.id/m3u/usee-tvedukasi.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv5monde.png",TV5Monde
-http://ironman.my.id/m3u/usee-tv5monde.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv9nu.png",TV9 NU
-http://ironman.my.id/m3u/usee-tv9.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvn.png",TVN
-http://ironman.my.id/m3u/usee-tvn.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvnmovies.png",TVN Movies
-http://ironman.my.id/m3u/usee-tvnmovies.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png",TVRI
-http://ironman.my.id/m3u/usee-tvri.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/useephoto.png",Usee Photo
-http://ironman.my.id/m3u/usee-useephoto.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/useeprime.png",UseePrime
-http://ironman.my.id/m3u/usee-useeprime.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/useesports1.png",Useesports 1
-http://ironman.my.id/m3u/usee-useesport.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/useesports2.png",Useesports 2
-http://ironman.my.id/m3u/usee-useesports2.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/wakuwaku.png",Waku Waku Japan
-http://ironman.my.id/m3u/usee-wakuwaku.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/warner.png",Warner
-http://ironman.my.id/m3u/usee-warner.m3u8
-#EXTINF:-1 group-title="01' USEE" tvg-logo="http://202.74.236.189/~uzbwkzam/img/zeebioskop.png",ZBioskop
-http://ironman.my.id/m3u/usee-zbioskop.m3u8
 
 
 
@@ -472,8 +245,8 @@ https://uiptv.do.am/1ufc/000000003/playlist.m3u8
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/nba.png" group-title="Sports",NBA
-http://ironman.my.id/m3u/usee-nba.m3u8
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/nba.png" group-title="02 SPORTS",NBA
+
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",OLYMPIC CHANNEL
 http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8

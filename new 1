@@ -177,9 +177,12 @@ http://93.190.139.36:8278/streams/d/cctv5/playlist.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="02 SPORTS",CCTV-5+
 http://93.190.139.36:8278/streams/d/cctv5plus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Vidio) https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Vidio) https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 (Vidio) https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6786 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6685 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Vidio)
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6686 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 (Vidio) 
+https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=vidio-6786 
 
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-chelseatv.jpg",CHELSEA TV

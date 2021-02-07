@@ -2,6 +2,11 @@
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_antv_big1.png",ANTV
 http://rr2.dens.tv/s/s07/02.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428066_ico.png" group-title="01 TV NASIONAL",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png",CNBC Indonesia
@@ -241,7 +246,7 @@ https://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m1-e1546179477818.png",Матч! Футбол 1
 http://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m2-e1546179439206.png",Матч! Футбол 2
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+
 #EXTINF:-1 group-title="02 SPORTS", МАТЧ! Футбол 3
 https://77-247-178-24.livesports24.online/rumatchf3.m3u8
 

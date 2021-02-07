@@ -19,7 +19,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_768000=7-mp
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/02.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1156034780_b628000_sleng.m3u8
+http://rr.dens.tv/h/h12/02.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png",METRO TV (HD)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 

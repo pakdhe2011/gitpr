@@ -235,6 +235,12 @@ https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV! Russia
 https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m1-e1546179477818.png",Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd?checkedby
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m2-e1546179439206.png",Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg",MU TV
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE

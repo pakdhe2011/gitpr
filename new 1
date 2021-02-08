@@ -271,6 +271,11 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",RTM SPORTS
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/vXHkWa3.png", SETANTA SPORTS 1
+http://92.43.140.200/s81/03.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.imgur.com/5eGiK85.png", SETANTA SPORTS 2
+http://92.43.140.200/s82/03.m3u8
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",SKYNET SPORTS HD
 http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
 
@@ -463,299 +468,177 @@ http://160.119.77.116:8081/iptv/hd-bein9.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", beIN Sports HD 10
 http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="CBN DENS",STYLE
-http://rr.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
-http://rr.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
-http://rr.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FIGHT SPORTS
-http://rr.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KIX
-http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MOTORVISION
-http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANSTV
-http://rr.dens.tv/h/h11/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",METROTV
-http://rr.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
-http://rr.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",HITS
-http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AXN
-http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="CBN DENS",AL JAZEERA 1
 http://rr2.dens.tv/s/s16/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",AL JAZEERA 2
 http://rr2.dens.tv/s/s17/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIMAX
+http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ANTV
+http://rr3.dens.tv/s/s85/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",AXN
+http://rr.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BALI TV
+http://rr.dens.tv/h/h159/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
+http://rr3.dens.tv/s/s87/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",CCTV4
 http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TV5MONDE
-http://rr2.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",CELESTIAL MOVIES
 http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CGTN
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
+http://rr.dens.tv/h/h29/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAEUROPE
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
+http://rr.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s102/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s113/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
+http://rr3.dens.tv/s/s35/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DUBAI
+http://rr.dens.tv/h/h152/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",DWTV
+http://rr2.dens.tv/s/s26/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
+http://rr.dens.tv/h/h22/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
+http://rr2.dens.tv/s/s10/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FIGHT SPORTS
+http://rr.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FILMY
+http://rr.dens.tv/h/h154/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",FRANCE24
+http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",HITS
+http://rr.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",INDOSIAR
+http://rr3.dens.tv/s/s84/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",JTV
+http://rr3.dens.tv/s/s91/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",K+
+http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KIX
+http://rr.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
+http://rr3.dens.tv/s/s86/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr.dens.tv/h/h97/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
+http://rr3.dens.tv/s/s36/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",LEJEL
 http://rr2.dens.tv/s/s42/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
+http://rr.dens.tv/h/h28/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Live Streaming
+http://rr3.dens.tv/s/s37/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",METROTV
+http://rr.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MKIDZ
+http://rr.dens.tv/h/h98/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",MyCINEMA
+http://rr.dens.tv/h/h90/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",MyTV
 http://rr2.dens.tv/s/s46/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",NHK WORLD
+http://rr.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX
+http://rr2.dens.tv/s/s21/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",PHOENIX CHINESE
+http://rr.dens.tv/h/h157/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Quran TV
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
+http://rr3.dens.tv/s/s63/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",RODJATV
+http://rr2.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RT
+http://rr2.dens.tv/s/s23/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTP
+http://rr2.dens.tv/s/s38/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SCTV
+http://rr3.dens.tv/s/s83/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
+http://rr2.dens.tv/s/s29/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
+http://rr.dens.tv/h/h155/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY GEM
+http://rr.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",SONY ONE
+http://rr.dens.tv/h/h143/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",STAR
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",STYLE
+http://rr.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",Sunna TV
+http://rr2.dens.tv/s/s27/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TBN
+http://rr2.dens.tv/s/s39/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TELENOVELA
+http://rr.dens.tv/h/h153/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",TESTHD
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1 group-title="CBN DENS",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TOONMAX
 http://rr2.dens.tv/s/s50/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TRANS7
 http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TRANS7
 http://rr3.dens.tv/s/s73/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr.dens.tv/h/h11/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRANSTV
+http://rr3.dens.tv/s/s72/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TRT WORLD
+http://rr.dens.tv/h/h156/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TV5MONDE
+http://rr2.dens.tv/s/s24/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVE
+http://rr.dens.tv/h/h158/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",TVONE
 http://rr3.dens.tv/s/s81/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SCTV
-http://rr3.dens.tv/s/s83/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",INDOSIAR
-http://rr3.dens.tv/s/s84/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANTV
-http://rr3.dens.tv/s/s85/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
-http://rr3.dens.tv/s/s86/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
-http://rr3.dens.tv/s/s87/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s102/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s113/index.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
+http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",U CHANNEL
+http://rr2.dens.tv/s/s41/01.m3u8
 #EXTINF:-1 group-title="CBN DENS",UA
-http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",JTV
-http://rr3.dens.tv/s/s91/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-
-#EXTINF:-1 group-title="OXYGEN",Oxygen TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=oxygentv
-#EXTINF:-1 group-title="OXYGEN",NET.
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nettv
-#EXTINF:-1 group-title="OXYGEN",METRO TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=metrotv
-#EXTINF:-1 group-title="OXYGEN",TVRI
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvri
-#EXTINF:-1 group-title="OXYGEN",SCTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sctv
-#EXTINF:-1 group-title="OXYGEN",TRANS TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=transtv
-#EXTINF:-1 group-title="OXYGEN",INDOSIAR
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=indosiar
-#EXTINF:-1 group-title="OXYGEN",ANTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=antv
-#EXTINF:-1 group-title="OXYGEN",TV ONE
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvone
-#EXTINF:-1 group-title="OXYGEN",JAKTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=jaktv
-#EXTINF:-1 group-title="OXYGEN",MATRIX TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=matrixtv
-#EXTINF:-1 group-title="OXYGEN",LEJEL HS
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lejelhs
-#EXTINF:-1 group-title="OXYGEN",NUSANTARA TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nusantaratv
-#EXTINF:-1 group-title="OXYGEN",KOMPAS TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=kompastv
-#EXTINF:-1 group-title="OXYGEN",RTV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rtv
-#EXTINF:-1 group-title="OXYGEN",O CHANNEL
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=ochannel
-#EXTINF:-1 group-title="OXYGEN",NHK WORLD
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=nhkworld
-#EXTINF:-1 group-title="OXYGEN",PHOENIX HK
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixhongkong
-#EXTINF:-1 group-title="OXYGEN",DW TV ASIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=dwenglish
-#EXTINF:-1 group-title="OXYGEN",FRANCE 24
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=france24
-#EXTINF:-1 group-title="OXYGEN",ARIRANG
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=arirangworld
-#EXTINF:-1 group-title="OXYGEN",CCTV4
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cctv4asia
-#EXTINF:-1 group-title="OXYGEN",VOA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=voa
-#EXTINF:-1 group-title="OXYGEN",RAI ITALIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=raiitalia
-#EXTINF:-1 group-title="OXYGEN",CETV 1
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cetv1
-#EXTINF:-1 group-title="OXYGEN",TVE ASIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tveasia
-#EXTINF:-1 group-title="OXYGEN",TV5MONDE
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tv5monde
-#EXTINF:-1 group-title="OXYGEN",CGTN DOCUMENTARY
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtndocumentary
-#EXTINF:-1 group-title="OXYGEN",SALAM TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=salamtv
-#EXTINF:-1 group-title="OXYGEN",RODJA TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=rodjatv
-#EXTINF:-1 group-title="OXYGEN",DAAI TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=daaitv
-#EXTINF:-1 group-title="OXYGEN",QUR'AN TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=qurantv
-#EXTINF:-1 group-title="OXYGEN",TAWAF TV
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tawaftv
-#EXTINF:-1 group-title="OXYGEN",BERITA SATU
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=beritasatu
-#EXTINF:-1 group-title="OXYGEN",iNews
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=inews
-#EXTINF:-1 group-title="OXYGEN",CNBC INDONESIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbcindonesia
-#EXTINF:-1 group-title="OXYGEN",AL JAZEERA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=aljazeera
-#EXTINF:-1 group-title="OXYGEN",PHOENIX CHINESE
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixchinese
-#EXTINF:-1 group-title="OXYGEN",CHANNEL NEWS ASIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=channelnewsasia
-#EXTINF:-1 group-title="OXYGEN",RUSSIA TODAY
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=russiatoday
-#EXTINF:-1 group-title="OXYGEN",PHOENIX INFO NEWS
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=phoenixnews
-#EXTINF:-1 group-title="OXYGEN",EURONEWS
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=euronewsasia
-#EXTINF:-1 group-title="OXYGEN",CGTN
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cgtn
-#EXTINF:-1 group-title="OXYGEN",TVB NEWS
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvbnews
-#EXTINF:-1 group-title="OXYGEN",BLOOMBERG
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=bloomberg
-#EXTINF:-1 group-title="OXYGEN",CNBC
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=cnbc
-#EXTINF:-1 group-title="OXYGEN",SINEMA INDONESIA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia
-#EXTINF:-1 group-title="OXYGEN",SINEMA INDONESIA X
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sinemaindonesia-x
-#EXTINF:-1 group-title="OXYGEN",B4U MOVIES
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umovieindia
-#EXTINF:-1 group-title="OXYGEN",XING KONG CHINA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=xingkong
-#EXTINF:-1 group-title="OXYGEN",LOTUS MACAU
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=lotusmacau
-#EXTINF:-1 group-title="OXYGEN",Drakor Plus
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=drakorplus
-#EXTINF:-1 group-title="OXYGEN",K DRAMA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=k-drama
-#EXTINF:-1 group-title="OXYGEN",GO TO LUXE
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=gotoluxe
-#EXTINF:-1 group-title="OXYGEN",CHANNEL V CHINA
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=vchina
-#EXTINF:-1 group-title="OXYGEN",B4U MUSIC
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=b4umusicindia
-#EXTINF:-1 group-title="OXYGEN",SPACETOON
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=spacetoon
-#EXTINF:-1 group-title="OXYGEN",TV EDUKASI
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvedukasi
-#EXTINF:-1 group-title="OXYGEN",TOONMAX
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=toonmax
-#EXTINF:-1 group-title="OXYGEN",TVRI SPORT
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=tvrisport
-#EXTINF:-1 group-title="OXYGEN",SPORT ONE
-http://sile.mengkacaktv.my.id:83/oxygen.m3u8?channel=sportone
+http://rr.dens.tv/h/h101/01.m3u8
+#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
 
 #EXTINF:-1 group-title="MAXSTREAM",MTA TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
@@ -1060,11 +943,11 @@ https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBS TV
 http://203.162.235.41:16907
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 1
-http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_009/playlist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",TV ASAHI
-http://203.162.235.41:16906
+https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",TV TOKYO
 http://203.162.235.41:16908
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",WEATHER NEWS JAPAN

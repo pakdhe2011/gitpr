@@ -130,6 +130,8 @@ http://93.190.139.34:8278/streams/d/utv_eko/playlist.m3u8
 http://93.190.139.34:8278/streams/d/MYTV_eko/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",SEBAGIAN PERLU PAKAI BANTUAN APLIKASI INTRA
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
 http://iptv.zqstream.com/zqsport-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
 
@@ -179,6 +181,7 @@ https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 https://bein-plutolive-vo.akamaized.net/playlist480p.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36
+http://190.2.155.140:8278/streams/d/pptv_pat/playlist.m3u8
 https://laos-tech-live.b-cdn.net/hd-pptv_720/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", Astro Arena 
@@ -217,17 +220,17 @@ http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://iptv-work.at.ua/3/343.jpg" group-title="02 SPORTS",Футбол 1
 https://95-213-224-169.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Футбол 2
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ukrsport.info/wp-content/uploads/2020/10/futbol2-1280x720.png",Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="02 SPORTS",Футбол 3 HD
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ukrtelecom.ua/upload/iblock/9a7/5ed-1.png",Футбол 3 HD
 https://46-21-250-207.livesports24.online/football3ua.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Матч!
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m1-e1546179477818.png",Матч! Футбол 1
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1
 https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://onlinetv.center/wp-content/uploads/2018/12/m2-e1546179439206.png",Матч! Футбол 2
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/30/olz.png",Матч! Футбол 2
 https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="02 SPORTS", МАТЧ! Футбол 3
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",МАТЧ! Футбол 3
 https://95-213-224-169.livesports24.online/rumatchf3.m3u8
 
 

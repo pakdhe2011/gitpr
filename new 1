@@ -249,7 +249,7 @@ https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
 https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/31/u02.png",МАТЧ! Футбол 3
 https://95-213-224-169.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1   tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg" group-title="ShareExt@RUSIASport",МАТЧ! Премьер
+#EXTINF:-1   tvg-logo="https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/bc/bd/568e309e76bb6ad5685f1e09e4be15bf5d79f444e602c784381612.jpg" group-title="02 SPORTS",МАТЧ! Премьер
 https://95-213-224-181.livesports24.online/mpremierrus.m3u8
 #EXTINF:-1   tvg-logo="https://www.setantaeurasia.com/en/assets/components/mor/General/img/setantaeurasia/setanta-logo-sm.png" group-title="02 SPORTS", Setanta Sport 1
 https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8

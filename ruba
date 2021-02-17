@@ -185,6 +185,7 @@ https://laos-tech-live.b-cdn.net/epl-bein2_720/index.m3u8
 https://nonton.site:8443/novi/novi123/729
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/HD-1.png",Bein Sports USA HD
 http://thaicable.myftp.org:8000/live/infosat/2020/40.ts
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/HD-1.png",Bein Sports USA HD
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA
 https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8

@@ -64,10 +64,10 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
-http://iptv.zqstream.com/zqsport-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD (1080)
-http://4digital.ddns.net:11223/ts/0
+http://thaicable.myftp.org:8000/live/infosat/2020/3.ts
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 1 (1080)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 2 (1080)
@@ -156,7 +156,8 @@ https://95-213-224-183.livesports24.online/fooootball2.m3u8
 https://46-21-250-207.livesports24.online/football3ua.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" tvg-url="" group-title="02 SPORTS",Sport 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
-
+#EXTINF:-1   tvg-logo="https://www.setanta.com.ua/assets/components/mor/General/img/premier-sports-logo.png" group-title="02 SPORTS",Setanta Ukraina
+https://95-213-224-180.livesports24.online/setantaukraine.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Матч!
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1
@@ -323,7 +324,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 HD IN
-
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 HD IN
 
@@ -348,6 +349,345 @@ https://home-tv.web.id/dinda/wintvliveaplikasi.m3u8?channel=usee-useesport2
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg",WWE LIVE
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Colors_Tamil
+https://nonton.site:8443/novi/novi123/38626
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV Alhijrah
+https://nonton.site:8443/novi/novi123/38627
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO WARNERTV
+https://nonton.site:8443/novi/novi123/38629
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nat_Geo_Wild
+https://nonton.site:8443/novi/novi123/38630
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVN
+https://nonton.site:8443/novi/novi123/38631
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVN_Movies
+https://nonton.site:8443/novi/novi123/38632
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NHK_World_Japan
+https://nonton.site:8443/novi/novi123/38633
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Channel_News_Asia
+https://nonton.site:8443/novi/novi123/38634
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ABC_Australia
+https://nonton.site:8443/novi/novi123/38635
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_Sports3
+https://nonton.site:8443/novi/novi123/38636
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_Sports2
+https://nonton.site:8443/novi/novi123/38637
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_Sports1
+https://nonton.site:8443/novi/novi123/38638
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO France24
+https://nonton.site:8443/novi/novi123/38639
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Baby TV
+https://nonton.site:8443/novi/novi123/38642
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FX_Cinema
+https://nonton.site:8443/novi/novi123/38643
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Fox_Life
+https://nonton.site:8443/novi/novi123/38644
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Fox_Family_Movies
+https://nonton.site:8443/novi/novi123/38645
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX
+https://nonton.site:8443/novi/novi123/38646
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Fox_Action_Movies
+https://nonton.site:8443/novi/novi123/38647
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Fox_Movies
+https://nonton.site:8443/novi/novi123/38648
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SCM_Legend
+https://nonton.site:8443/novi/novi123/38651
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BBC_Cbeebies
+https://nonton.site:8443/novi/novi123/38655
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SCM
+https://nonton.site:8443/novi/novi123/38658
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Boomerang
+https://nonton.site:8443/novi/novi123/38662
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Cinema_World
+https://nonton.site:8443/novi/novi123/38663
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nick JR
+https://nonton.site:8443/novi/novi123/38664
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO MTV_Asia
+https://nonton.site:8443/novi/novi123/38668
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV9
+https://nonton.site:8443/novi/novi123/38669
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV8
+https://nonton.site:8443/novi/novi123/38670
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NTV7
+https://nonton.site:8443/novi/novi123/38671
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV3
+https://nonton.site:8443/novi/novi123/38672
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nat_Geo_Asia
+https://nonton.site:8443/novi/novi123/38674
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Animax
+https://nonton.site:8443/novi/novi123/38675
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Zee_Cinema
+https://nonton.site:8443/novi/novi123/38677
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Zee TV
+https://nonton.site:8443/novi/novi123/38678
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BBC_Earth
+https://nonton.site:8443/novi/novi123/38680
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nat_Geo_People
+https://nonton.site:8443/novi/novi123/38683
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Euronews
+https://nonton.site:8443/novi/novi123/38690
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BBC World News
+https://nonton.site:8443/novi/novi123/38691
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DW
+https://nonton.site:8443/novi/novi123/38692
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HBO
+https://nonton.site:8443/novi/novi123/38693
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HBO_RED
+https://nonton.site:8443/novi/novi123/38694
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Astro Citra HD
+https://nonton.site:8443/novi/novi123/38706
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO GO Shop 4
+https://nonton.site:8443/novi/novi123/38707
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Arabic Radio & TV Variety
+https://nonton.site:8443/novi/novi123/38708
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV OKEY
+https://nonton.site:8443/novi/novi123/38709
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV9
+https://nonton.site:8443/novi/novi123/38710
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO 8TV
+https://nonton.site:8443/novi/novi123/38711
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NTV7
+https://nonton.site:8443/novi/novi123/38712
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV3
+https://nonton.site:8443/novi/novi123/38713
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BOO HD
+https://nonton.site:8443/novi/novi123/38714
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",CinemaTV
+https://nonton.site:8443/novi/novi123/38715
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ImperiaTV
+https://nonton.site:8443/novi/novi123/38716
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ADITHYA
+https://nonton.site:8443/novi/novi123/38717
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AEC_HD
+https://nonton.site:8443/novi/novi123/38718
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AFC
+https://nonton.site:8443/novi/novi123/38719
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ANIMAL_PLANET_HD
+https://nonton.site:8443/novi/novi123/38720
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ANIPLUS_HD
+https://nonton.site:8443/novi/novi123/38721
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AOD_351
+https://nonton.site:8443/novi/novi123/38722
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AOD_352
+https://nonton.site:8443/novi/novi123/38723
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AOD_353
+https://nonton.site:8443/novi/novi123/38724
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AOD_362
+https://nonton.site:8443/novi/novi123/38725
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AOD_HD 363
+https://nonton.site:8443/novi/novi123/38726
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ARENA_HD
+https://nonton.site:8443/novi/novi123/38727
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ASTRO_RANIA
+https://nonton.site:8443/novi/novi123/38728
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ASTRO_CRICKET
+https://nonton.site:8443/novi/novi123/38729
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AWANI
+https://nonton.site:8443/novi/novi123/38730
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO AXN_HD
+https://nonton.site:8443/novi/novi123/38731
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nat_Geo_People
+https://nonton.site:8443/novi/novi123/38732
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO bEIN_MAX
+https://nonton.site:8443/novi/novi123/38733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Hits Movies
+https://nonton.site:8443/novi/novi123/38734
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO beIN_SPORTS
+https://nonton.site:8443/novi/novi123/38735
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BLOOMBERG_TV
+https://nonton.site:8443/novi/novi123/38736
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BNC
+https://nonton.site:8443/novi/novi123/38737
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BOLLYONE_HD
+https://nonton.site:8443/novi/novi123/38738
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CARTOON_NTWK
+https://nonton.site:8443/novi/novi123/38739
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CCM
+https://nonton.site:8443/novi/novi123/38740
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CCTV4
+https://nonton.site:8443/novi/novi123/38741
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CELESTIAL_HD
+https://nonton.site:8443/novi/novi123/38742
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO WARNER_TV
+https://nonton.site:8443/novi/novi123/38743
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CGTN
+https://nonton.site:8443/novi/novi123/38744
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CHUTTI_TV
+https://nonton.site:8443/novi/novi123/38745
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Crime Investigation_HD
+https://nonton.site:8443/novi/novi123/38746
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CINEMAX_HD
+https://nonton.site:8443/novi/novi123/38747
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ASTRO_AURA
+https://nonton.site:8443/novi/novi123/38748
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CNBC
+https://nonton.site:8443/novi/novi123/38749
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CNN_HD
+https://nonton.site:8443/novi/novi123/38750
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO COLORS_HD
+https://nonton.site:8443/novi/novi123/38751
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CTI_ASIA
+https://nonton.site:8443/novi/novi123/38752
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DISC_SCI_HD
+https://nonton.site:8443/novi/novi123/38753
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DISCOVERY_ASIA
+https://nonton.site:8443/novi/novi123/38754
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DISCOVERY_HD
+https://nonton.site:8443/novi/novi123/38755
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BOOMERANG
+https://nonton.site:8443/novi/novi123/38756
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DMAX_HD
+https://nonton.site:8443/novi/novi123/38759
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVS
+https://nonton.site:8443/novi/novi123/38760
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO eGG_Network
+https://nonton.site:8443/novi/novi123/38761
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO EUROSPORT_HD
+https://nonton.site:8443/novi/novi123/38762
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOOD_NTWK_HD
+https://nonton.site:8443/novi/novi123/38763
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO GO_SHOP_2
+https://nonton.site:8443/novi/novi123/38764
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO GO_SHOP
+https://nonton.site:8443/novi/novi123/38765
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO GO_SHOP_3
+https://nonton.site:8443/novi/novi123/38766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO GOLF_CHANNEL_HD
+https://nonton.site:8443/novi/novi123/38767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HBO_HD
+https://nonton.site:8443/novi/novi123/38768
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HELLO
+https://nonton.site:8443/novi/novi123/38769
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HGTV_HD
+https://nonton.site:8443/novi/novi123/38770
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HISTORY_HD
+https://nonton.site:8443/novi/novi123/38771
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HITS_HD
+https://nonton.site:8443/novi/novi123/38772
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO HUA_HEE_DAI_HD
+https://nonton.site:8443/novi/novi123/38773
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO iQIYI_HD
+https://nonton.site:8443/novi/novi123/38774
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVB_News
+https://nonton.site:8443/novi/novi123/38775
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVBS_News
+https://nonton.site:8443/novi/novi123/38776
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO KBSW_HD
+https://nonton.site:8443/novi/novi123/38777
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO KIX_HD
+https://nonton.site:8443/novi/novi123/38778
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO KPLUS_HD
+https://nonton.site:8443/novi/novi123/38779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO MAKKAL_TV
+https://nonton.site:8443/novi/novi123/38780
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NAURA
+https://nonton.site:8443/novi/novi123/38781
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NICKELODEON
+https://nonton.site:8443/novi/novi123/38782
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO OASIS_HD
+https://nonton.site:8443/novi/novi123/38783
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Oh!K_HD
+https://nonton.site:8443/novi/novi123/38784
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ONE_HD
+https://nonton.site:8443/novi/novi123/38785
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO PRIMA_HD
+https://nonton.site:8443/novi/novi123/38786
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO QUAN_JIA_HD
+https://nonton.site:8443/novi/novi123/38787
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Phoenix_HD
+https://nonton.site:8443/novi/novi123/38788
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO RIA_HD
+https://nonton.site:8443/novi/novi123/38789
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO RUGBY_PASS
+https://nonton.site:8443/novi/novi123/38790
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SHUANG_XING_HD
+https://nonton.site:8443/novi/novi123/38791
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO STAR_VIJAY_HD
+https://nonton.site:8443/novi/novi123/38792
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SUN_MUSIC
+https://nonton.site:8443/novi/novi123/38793
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SUN_TV_HD
+https://nonton.site:8443/novi/novi123/38794
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TLC_HD
+https://nonton.site:8443/novi/novi123/38795
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TUTOR_TV_PT3
+https://nonton.site:8443/novi/novi123/38796
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TUTOR_TV_SPM
+https://nonton.site:8443/novi/novi123/38797
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TUTOR_TV_UPSR
+https://nonton.site:8443/novi/novi123/38798
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVB_CLASSIC
+https://nonton.site:8443/novi/novi123/38799
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVB_E-NEWS
+https://nonton.site:8443/novi/novi123/38800
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVB_JADE
+https://nonton.site:8443/novi/novi123/38801
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVB_XING_HE
+https://nonton.site:8443/novi/novi123/38802
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVBS_ASIA
+https://nonton.site:8443/novi/novi123/38803
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TVIQ
+https://nonton.site:8443/novi/novi123/38804
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO VAANAVIL
+https://nonton.site:8443/novi/novi123/38805
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO VINMEEN_HD
+https://nonton.site:8443/novi/novi123/38806
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO WARNA_HD
+https://nonton.site:8443/novi/novi123/38807
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO WWE_NETWORK
+https://nonton.site:8443/novi/novi123/38808
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Astro_Ceria
+https://nonton.site:8443/novi/novi123/38809
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Astro_Xiao_Tai_Yang
+https://nonton.site:8443/novi/novi123/38810
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ABC_AUSTRALIA
+https://nonton.site:8443/novi/novi123/38811
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NickJR_HD
+https://nonton.site:8443/novi/novi123/38812
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ANIMAX
+https://nonton.site:8443/novi/novi123/38813
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO BBC_WORLD_NEWS_HD
+https://nonton.site:8443/novi/novi123/38814
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO CNA_HD
+https://nonton.site:8443/novi/novi123/38815
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO COLORS_TAMIL
+https://nonton.site:8443/novi/novi123/38816
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO DW_HD
+https://nonton.site:8443/novi/novi123/38818
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_SPORTS_2_HD
+https://nonton.site:8443/novi/novi123/38819
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_SPORTS_3_HD
+https://nonton.site:8443/novi/novi123/38820
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FOX_SPORTS_HD
+https://nonton.site:8443/novi/novi123/38821
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO FRANCE24_HD
+https://nonton.site:8443/novi/novi123/38822
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO MTV
+https://nonton.site:8443/novi/novi123/38823
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO NGW_HD
+https://nonton.site:8443/novi/novi123/38824
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO SKY_NEWS_HD
+https://nonton.site:8443/novi/novi123/38825
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV_ALHIJRAH
+https://nonton.site:8443/novi/novi123/38826
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO tvN_HD
+https://nonton.site:8443/novi/novi123/38827
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO tvN_Movies
+https://nonton.site:8443/novi/novi123/38828
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Nat_Geo
+https://nonton.site:8443/novi/novi123/38841
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Phoenix_News_HD
+https://nonton.site:8443/novi/novi123/38842
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV1
+https://nonton.site:8443/novi/novi123/38843
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO TV2
+https://nonton.site:8443/novi/novi123/38844
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO ZEE_TAMIL_HD
+https://nonton.site:8443/novi/novi123/38845
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Astro Malaysia",ASTRO Astro Vellithirai
+https://nonton.site:8443/novi/novi123/38858
+
+
 #EXTINF:-1 group-title="02 SPORTS (PAKAI DNS INTRA)" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",True Premier HD 1 
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS (PAKAI DNS INTRA)" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
@@ -358,6 +698,14 @@ https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
 https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS (PAKAI DNS INTRA)" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl5.png",True Premier HD 5
 https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/90x3Pxr0/Astro-Super-Sport-1.png" group-title="SPORT LIVE",ASSP1Thai(setAuto)
+https://laos-tech-live.b-cdn.net/my-asp1hd_720/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/90x3Pxr0/Astro-Super-Sport-1.png" group-title="SPORT LIVE",ASSP2Thai(setAuto)
+https://laos-tech-live.b-cdn.net/my-asp2hd_720/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/90x3Pxr0/Astro-Super-Sport-1.png" group-title="SPORT LIVE",ASSP3Thai(setAuto)
+https://laos-tech-live.b-cdn.net/my-asp3hd_720/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/90x3Pxr0/Astro-Super-Sport-1.png" group-title="SPORT LIVE",ASSP4Thai(setAuto)
+https://laos-tech-live.b-cdn.net/my-asp4hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="02 SPORTS (PAKAI DNS INTRA)",BeInSports 1 
 https://laos-tech-live.b-cdn.net/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="02 SPORTS (PAKAI DNS INTRA)",BeInSports 2
@@ -390,6 +738,8 @@ https://laos-tech-live.b-cdn.net/sd-tsport5_480/index.m3u8
 https://laos-tech-live.b-cdn.net/sd-tsport6_480/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS (PAKAI DNS INTRA)" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-tsport7.png",TrueSport 7
 https://laos-tech-live.b-cdn.net/sd-tsport7_480/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS ALT", Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -893,6 +1243,8 @@ http://190.2.155.140:8278/streams/d/ch5_pat/playlist.m3u8
 http://190.2.155.140:8278/streams/d/ch7_pat/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) MCOT HD
 http://190.2.155.140:8278/streams/d/mcot_pat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="ประเทศไทย",NBT 2 HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) PPTV HD
 http://190.2.155.140:8278/streams/d/pptv_pat/playlist.m3u8
 

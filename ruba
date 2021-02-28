@@ -80,7 +80,7 @@ http://ip2121.com:8081/4kweb/true1/chunks.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
 https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", Astro Arena 
 http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8
@@ -121,6 +121,8 @@ https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36
 http://190.2.155.140:8278/streams/d/pptv_pat/playlist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36 (server 2)
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b

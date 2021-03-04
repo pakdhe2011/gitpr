@@ -66,8 +66,21 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD (1080)
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORTS 3
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORTS 5
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 1
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 1 (1080)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 2 (1080)

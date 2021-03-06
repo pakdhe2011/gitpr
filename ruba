@@ -67,33 +67,33 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports1.png",SKYNET SPORTS 1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports2.png",SKYNET SPORTS 2
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports3.png",SKYNET SPORTS 3
-https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports4.png",SKYNET SPORTS 4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports5.png",SKYNET SPORTS 5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/sd-skynetsports6.png",SKYNET SPORTS 6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+https://www.livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 1 (1080)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://seeklogo.com/images/P/premier-league-new-logo-D22A0CE87E-seeklogo.com.png",PREMIER LEAGUE 2 (1080)
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",True Premier HD 1
-https://sport.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
+https://sport.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",True Premier HD 1
 http://ip2121.com:8081/4kweb/true1/chunks.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
-https://sport.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier HD 2
-http://160.119.77.116:8081/iptv/epl-2.stream/chunks.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl2.png",True Premier 2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", Astro Arena 
 http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8
@@ -107,12 +107,12 @@ http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8
 http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl3.png",True Premier HD 3
-https://sport.livedoomovie.com/02_PremierHD3_480p/chunklist.m3u8
+https://sport.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl3.png",True Premier HD 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl4.png",True Premier HD 4
-https://sport.livedoomovie.com/02_PremierHD4_480p/chunklist.m3u8
+https://sport.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl4.png",True Premier HD 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 
@@ -842,6 +842,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 http://210.210.155.35:80/uq2663/h/h98/index.m3u8
 
 
+#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="07 PENGETAHUAN",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BBE.Asia" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="07 PENGETAHUAN",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="07 PENGETAHUAN",Crime + Investigation
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-id="DIS.US" tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="07 PENGETAHUAN",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="07 PENGETAHUAN",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="PBS.UK" tvg-logo="https://static.epg.best/gb/PBSAmerica.uk.png" group-title="07 PENGETAHUAN",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="07 PENGETAHUAN",National Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="NGW.US" tvg-logo="https://static.epg.best/gb/NatGeoWild.uk.png" group-title="07 PENGETAHUAN",,National Geographic Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="SMI.US" tvg-logo="https://static.epg.best/gb/SmithsonianChannel.uk.png" group-title="07 PENGETAHUAN",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="08 BERITA" tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png",Al Jazeera English
 http://210.210.155.35/qwr9ew/s/s17/02.m3u8
@@ -1044,3 +1062,5 @@ http://203.162.235.41:16916
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/hRDGPKj/Yomiuri-TV.png", Yomiuri TV
 https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8?
+#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://www.at-x.com/images/common/logo.png group-title="11 NIPPON",AT-X
+https://sub2.neetball.net/live/neet.m3u8

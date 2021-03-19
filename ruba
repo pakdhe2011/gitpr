@@ -142,11 +142,15 @@ https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36 (server 2)
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Vidio)
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b/ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Usee)
+http://fikrulmkc.my.id/bagus/usee-champion1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Usee)
+http://fikrulmkc.my.id/bagus/usee-champion2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 (Vidio)
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
 
 
@@ -623,6 +627,29 @@ http://210.210.155.35/qwr9ew/s/s28/02.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
 #EXTINF:-1 group-title="04 RELIGI" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Al Sunnah An Nabawiyyah (Opt-2)
 http://210.210.155.35/qwr9ew/s/s27/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI",Rodja TV 
+https://fikrulmkc.my.id/bagus/usee-rodjatv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", Tawaf TV 
+https://fikrulmkc.my.id/bagus/usee-tawaftv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", U Channel 
+https://fikrulmkc.my.id/bagus/usee-uchannel.m3u8
+#EXTINF:-1 tvg-logo=https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", AlJazeera 
+https://fikrulmkc.my.id/bagus/usee-aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI",Dai TV 
+https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MTA TV 
+https://fikrulmkc.my.id/bagus/usee-mtatv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MUI TV 
+https://fikrulmkc.my.id/bagus/usee-muitv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", AL Quran AL Kareem 
+https://fikrulmkc.my.id/bagus/usee-alquran.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MQTV 
+https://fikrulmkc.my.id/bagus/usee-mqtv.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", TV9 NU 
+https://fikrulmkc.my.id/bagus/usee-tv9.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", Muhammadiyah TV 
+https://fikrulmkc.my.id/bagus/usee-muhammadiyahtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="04 RELIGI",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8

@@ -371,182 +371,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGFMnx4/20200307-060201.png" group-title="02 SPORTS",USEE SPORT 2 
 
-
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg",WWE LIVE
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
-
-
-#EXTM3U
-#EXTINF:-1 group-title="CBN DENS",AL JAZEERA AR
-http://rr2.dens.tv/s/s16/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AL JAZEERA EN
-http://rr2.dens.tv/s/s17/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIMAX
-http://rr1.dens.tv/h/h144/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANIPLUS
-http://rr1.dens.tv/h/h02/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANTV
-http://rr2.dens.tv/s/s07/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ANTV
-http://rr3.dens.tv/s/s85/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",AXN
-http://rr.dens.tv/h/h141/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BALI TV
-http://rr.dens.tv/h/h159/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
-http://rr.dens.tv/h/h03/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLOOMBERG
-http://rr3.dens.tv/s/s87/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CCTV4
-http://rr2.dens.tv/s/s19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CELESTIAL MOVIES
-http://rr2.dens.tv/s/s33/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CGTN
-http://rr2.dens.tv/s/s20/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CHANNEL NEWS ASIA
-http://rr.dens.tv/h/h29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CINEMAEUROPE
-http://rr.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",CINEMAWORLD
-http://rr.dens.tv/h/h04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DAAI TV
-http://rr2.dens.tv/s/s13/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s102/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s113/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DENS SHOWBIZ
-http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",DUBAI
-http://rr.dens.tv/h/h152/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",DWTV
-http://rr2.dens.tv/s/s26/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",EGG NETWORK
-http://rr.dens.tv/h/h22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",ELSHINTA TV
-http://rr2.dens.tv/s/s10/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FIGHT SPORTS
-http://rr.dens.tv/h/h05/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",FILMY
-http://rr.dens.tv/h/h154/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",FRANCE24
-http://rr2.dens.tv/s/s22/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",HITS
-http://rr.dens.tv/h/h37/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",INDOSIAR
-http://rr2.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",INDOSIAR
-http://rr3.dens.tv/s/s84/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",JTV
-http://rr3.dens.tv/s/s91/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",K+
-http://rr.dens.tv/h/h08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KIX
-http://rr.dens.tv/h/h07/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",KOMPAS TV
-http://rr3.dens.tv/s/s86/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",Learning&Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",LEJEL
-http://rr2.dens.tv/s/s42/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",LIFESTYLE
-http://rr.dens.tv/h/h28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Live Streaming
-http://rr3.dens.tv/s/s37/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",METROTV
-http://rr.dens.tv/h/h12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MKIDZ
-http://rr.dens.tv/h/h98/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",MOTORVISION
-http://rr.dens.tv/h/h09/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",MyCINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 group-title="CBN DENS",MyTV
-http://rr2.dens.tv/s/s46/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NET.
-http://rr2.dens.tv/s/s08/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",NHK WORLD
-http://rr.dens.tv/h/h23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",PHOENIX
-http://rr2.dens.tv/s/s21/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",PHOENIX CHINESE
-http://rr.dens.tv/h/h157/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",Quran TV
-http://rr2.dens.tv/s/s28/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RAI ITALIA
-http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",RODJATV
-http://rr2.dens.tv/s/s14/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RT
-http://rr2.dens.tv/s/s23/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTP
-http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",RTV
-http://rr2.dens.tv/s/s12/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SCTV
-http://rr2.dens.tv/s/s03/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SCTV
-http://rr3.dens.tv/s/s83/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SHANGHAI DRAGON TV
-http://rr2.dens.tv/s/s29/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SINEMA INDONESIA
-http://rr.dens.tv/h/h155/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY GEM
-http://rr.dens.tv/h/h19/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",SONY ONE
-http://rr.dens.tv/h/h143/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",STAR
-http://rr3.dens.tv/s/s94/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",STYLE
-http://rr.dens.tv/h/h01/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",Sunna TV
-http://rr2.dens.tv/s/s27/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TBN
-http://rr2.dens.tv/s/s39/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TELENOVELA
-http://rr.dens.tv/h/h153/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TESTHD
-http://rr.dens.tv/h/h151/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",THRILL
-http://rr2.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TOONMAX
-http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANS7
-http://rr2.dens.tv/s/s101/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANS7
-http://rr3.dens.tv/s/s73/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANSTV
-http://rr.dens.tv/h/h11/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRANSTV
-http://rr3.dens.tv/s/s72/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TRT WORLD
-http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TV5MONDE
-http://rr2.dens.tv/s/s24/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVE
-http://rr.dens.tv/h/h158/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVONE
-http://rr2.dens.tv/s/s105/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVONE
-http://rr3.dens.tv/s/s81/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",TVRI SPORT
-http://rr2.dens.tv/s/s107/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",U CHANNEL
-http://rr2.dens.tv/s/s41/01.m3u8
-#EXTINF:-1 group-title="CBN DENS",UA
-http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="CBN DENS",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
 
 #EXTINF:-1 group-title="MAXSTREAM 2",Bali TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
@@ -619,7 +445,7 @@ http://122.248.43.138:1935/ch2/myStream/chunklist_w7607647.m3u8
 
 
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png",MNC life
-https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
+
 #EXTINF:-1 group-title="03 LOKAL+" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png",MYTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
@@ -639,32 +465,9 @@ http://210.210.155.35/qwr9ew/s/s28/02.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
 #EXTINF:-1 group-title="04 RELIGI" tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png",Al Sunnah An Nabawiyyah (Opt-2)
 http://210.210.155.35/qwr9ew/s/s27/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI",Rodja TV 
-https://fikrulmkc.my.id/bagus/usee-rodjatv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", Tawaf TV 
-https://fikrulmkc.my.id/bagus/usee-tawaftv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", U Channel 
-https://fikrulmkc.my.id/bagus/usee-uchannel.m3u8
-#EXTINF:-1 tvg-logo=https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", AlJazeera 
-https://fikrulmkc.my.id/bagus/usee-aljazeera.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI",Dai TV 
-https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MTA TV 
-https://fikrulmkc.my.id/bagus/usee-mtatv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MUI TV 
-https://fikrulmkc.my.id/bagus/usee-muitv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", AL Quran AL Kareem 
-https://fikrulmkc.my.id/bagus/usee-alquran.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", MQTV 
-https://fikrulmkc.my.id/bagus/usee-mqtv.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", TV9 NU 
-https://fikrulmkc.my.id/bagus/usee-tv9.m3u8
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="04 RELIGI", Muhammadiyah TV 
-https://fikrulmkc.my.id/bagus/usee-muhammadiyahtv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="04 RELIGI",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
+
 
 #EXTINF:-1 group-title="05 FILM & SERIAL" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
@@ -870,74 +673,52 @@ https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX JAPAN
-https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Logo_asahi.png",BS ASAHI
 http://203.162.235.41:16914
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="http://www.bsfuji.tv/top/common/img/topparts/logo_bsf181201.png",BS FUJI
-http://93.190.139.34:8278/streams/d/bsfuji_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png",BS NTV
 http://203.162.235.41:16912
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/TBS-TV.jpg",BS TBS
-http://93.190.139.34:8278/streams/d/bstbs_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://www.tv-tokyo.co.jp/information/blog/images/24606404907f11e880a6cbdce0444b13.jpg",BS TOKYO
 http://203.162.235.41:16915
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png",CGN JAPAN
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/150px-Fuji_TV_logo.svg.png",FUJI TV
-http://93.190.139.34:8278/streams/d/fujitv_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://s.mxtv.jp/images/yumelion_200x200.jpg",MX Live
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK
-http://93.190.139.34:8278/streams/d/nhk1_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BS PREMIUM
-http://93.190.139.34:8278/streams/d/bs181_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Q1_%281%29.jpg",NHK BS PREMIUM (2)
-http://93.190.139.34:8278/streams/d/nhkpremium_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK E TV
-http://93.190.139.34:8278/streams/d/nippontv_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nippon_tv_logo_2014.png",NIPPON TV
-http://93.190.139.34:8278/streams/d/nippontv_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/1920px-NHK_General_TV_logo.svg.png",NHK OSAKA
-http://93.190.139.34:8278/streams/d/nhkosaka_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg",NTV NEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg",TBS TV
 http://203.162.235.41:16907
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 1
-http://93.190.139.34:8278/streams/d/tokyomx_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1920px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png",TV ASAHI
 https://sotalcloud.live-s.cdn.bitgravity.com/cdn-live/_definst_/sotalcloud/live/DYA_005/playlist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2000px-TV_Tokyo_logo_20110629.svg.png",TV TOKYO
-http://93.190.139.34:8278/streams/d/tokyotv_japan/playlist.m3u8
+
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/WNI-logo.png",WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://cdn.wowow.co.jp/service/fg/img/ch_cinema_logo.png",WOWOW CINEMA
 http://203.162.235.41:16916
 
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/dk0ZHht/abctvlogobyvovanloc.jpg", ABC TV
-https://cdn.us195.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/9T1V7M7/eiseigekijologobyvovanloc.jpg", Eisei Gekijo
-https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/q1fSSkv/suntvlogobyvovanloc.jpg", SUN TV
-https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/r0td5PT/osakatvlogobyvovanloc.png", OSAKA TV
-https://cdn.jpth10.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/TMvwtKq/GAORASPORTSlogobyvovanloc.png", GAORA SPORTS
-https://cdn.us195.jpnettv.live/jptv/GaoRa/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/FhNq9c2/MBSlogobyvovanloc.png", MBS
-https://cdn.us195.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/VDp6DKg/moviepluslogobyvovanloc.png", Movie Plus
-https://cdn.us195.jpnettv.live/jptv/movieplus/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/6r4PGxs/nihoneigalogobyvovanloc.png", Nihon Eiga 
-https://cdn.jpth10.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/C6Ldd2v/nhkbsplogobyvovanloc.png", NHK BSP
-https://cdn.jpth10.jpnettv.live/jptv/bspremium_540/playlist.m3u8?
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/PcJT7q0/nhkglogobyvovanloc.png", NHK G
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_540/playlist.m3u8
-#EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/SrWQbqx/NHKElogobyvovanloc.png", NHK E
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/68cVkqc/NHK.png", NHK Normal
 http://203.162.235.41:16901
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/yqMkkvL/Kansailogobyvovanloc.png", Kansai TV

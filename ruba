@@ -147,9 +147,12 @@ http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports
 http://42.201.228.226:8678/PTVSPORT_NOC_TV/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports (MOBILE)
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (MOBILE)
+http://42.201.228.226:8678/TENSPORT_EBRAVO_MOBILE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36 
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 

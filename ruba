@@ -103,17 +103,19 @@ http://77.83.117.60:8888//02_PremierHD2_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", Astro Arena 
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
+
 #EXTINF:-1 tvg-chno="61" tvg-id="assp" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp1hd.png?rev=8",Astro SuperSport
-http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="62" tvg-id="assp2" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp2hd.png?rev=8",Astro SuperSport 2
-http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="63" tvg-id="assp3" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp3hd.png?rev=8",Astro SuperSport 3
-http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="64" tvg-id="assp4" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp4hd.png?rev=8",Astro SuperSport 4
-http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl3.png",True Premier 3
@@ -153,19 +155,26 @@ http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (MOBILE)
 http://42.201.228.226:8678/TENSPORT_EBRAVO_MOBILE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",OMAN SPORTS (HD)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",OMAN SPORTS (SD)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",OMAN SPORTS (MOBILE)
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",BUNDESLIGA PPTV 36 
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Vidio)
-https://livestreaming-swiftserve-etslive.vidio.com/live/6685/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Usee)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Vidio)
-https://livestreaming-swiftserve-etslive.vidio.com/live/6686/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Usee)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 (Vidio)
-https://livestreaming-swiftserve-etslive.vidio.com/live/6786/master.m3u8
+
 
 
 

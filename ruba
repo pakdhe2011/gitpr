@@ -10,12 +10,21 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b192000_sleng.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV
 https://cdn4.mbahnunungonline.net/m3u8/df56d15c1ad325a.m3u8 
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR
 https://livestreaming-google-etslive.vidio.com/live/205/master.m3u8
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png",INDOSIAR (VISION+)
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8 
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (VISION+)
+
+https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_1000000=6-mp4a_98800_eng=2.m3u8
+
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV
 https://livestreaming-google-etslive.vidio.com/live/874/master.m3u8
@@ -30,20 +39,34 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
 https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8 
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (VISION+)
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
+
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png",NET.
 https://livestreaming-google-etslive.vidio.com/live/875/master.m3u8
+
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg",O CHANNEL
 https://livestreaming-google-etslive.vidio.com/live/206/master.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8 
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (VISION+)
+
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_rtv_big1.png",RTV
 https://livestreaming-google-etslive.vidio.com/live/1561/master.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV
 https://livestreaming-google-etslive.vidio.com/live/204/master.m3u8
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV (VISION+)
+
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_trans7_big1.png",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7 (Backup)
@@ -192,6 +215,11 @@ http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", BT SPORTS ESPN
 
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/00f4d0be3ac342bda2cfa69262eeb3ab_202010050919.svg", RTSH Sport
+https://tvlive.rtsh.dev/out/u/41_2.m3u8
+
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Belarus_5.svg/revision/latest/scale-to-width-down/200?cb=20191008123422", Беларусь 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_w514767285_b1010000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgODozMDo0NSBBTSZoYXNoX3ZhbHVlPVNSSmoyemVkYmxnSEh2Vlh2UVBobUE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png", Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8

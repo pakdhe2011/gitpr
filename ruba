@@ -129,16 +129,16 @@ http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="61" tvg-id="assp" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp1hd.png?rev=8",Astro SuperSport
-
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="62" tvg-id="assp2" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp2hd.png?rev=8",Astro SuperSport 2
-
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-id="assp3" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp3hd.png?rev=8",Astro SuperSport 3
-
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-id="assp4" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp4hd.png?rev=8",Astro SuperSport 4
-
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl3.png",True Premier 3
@@ -161,6 +161,11 @@ http://77.83.117.60:8888//02_PremierHD5_720p/chunklist.m3u8
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+
+#EXTINF:-1 tvg-id="beINSports1" group-title="02 SPORTS" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1.png",beIN Sports 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 AR
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
@@ -687,9 +692,14 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
-http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+#EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="http://kamiselaluada.com/img/rtmokey.png",(MY) RTM OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://www.xtra.com.my/img/logo/tv3.png",(MY) TV3
 http://50.7.222.130:8278/streams/d/TV3sd/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png",(SG) 8频道 (Ch 8)

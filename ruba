@@ -173,7 +173,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 HD IN
 http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 HD IN
-http://cdn.ihub.live:8080/SonyTen2hd/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 IN
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports

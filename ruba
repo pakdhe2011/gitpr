@@ -22,7 +22,6 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
 https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (VISION+)
-
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_1000000=6-mp4a_98800_eng=2.m3u8
 
 
@@ -42,11 +41,8 @@ https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-
-
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/ZKyHPgGZ/NETtv.png",NET.
 https://livestreaming-google-etslive.vidio.com/live/875/master.m3u8
-
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg",O CHANNEL
 https://livestreaming-google-etslive.vidio.com/live/206/master.m3u8
@@ -54,7 +50,6 @@ https://livestreaming-google-etslive.vidio.com/live/206/master.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (VISION+)
-
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
@@ -125,7 +120,7 @@ http://77.83.117.60:8888//02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888//02_PremierHD2_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="02 SPORTS", Astro Arena 
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="61" tvg-id="assp" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp1hd.png?rev=8",Astro SuperSport
@@ -174,6 +169,13 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 HD IN
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 HD IN
+http://cdn.ihub.live:8080/SonyTen2hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 IN
+http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports
 http://42.201.228.226:8678/PTVSPORT_NOC_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports (MOBILE)
@@ -402,11 +404,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 HD IN
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 HD IN
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 IN
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TVRI SPORTS
 
@@ -689,13 +686,13 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
-https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="http://kamiselaluada.com/img/rtmokey.png",(MY) RTM OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM SUKAN
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 

@@ -27,7 +27,8 @@ https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV
 https://livestreaming-google-etslive.vidio.com/live/874/master.m3u8
-#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV (MAXSTREAM)
+#EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV (MAXSTREAM)\
+
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png",KOMPAS TV (USEETV)
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
@@ -90,6 +91,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (2)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
@@ -104,6 +107,9 @@ https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
 http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://2.bp.blogspot.com/-hKWzutkz-0E/WSscbWvf8SI/AAAAAAAAGWw/jEMGYsNftEI1Ra-4rSjJ5NvkI9rvhGAJwCLcB/s1600/perviy_1_kanal.png",Perviy Kanal Russia
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
+
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Belarus_5.svg/revision/latest/scale-to-width-down/200?cb=20191008123422", Беларусь 5
@@ -120,8 +126,11 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",VNL Court 1 (Vidio)
+https://livestreaming-google-etslive.vidio.com/live/7784/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",VNL Court 2 (Vidio)
+https://livestreaming-google-etslive.vidio.com/live/7785/master.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 http://77.83.117.60:8888//03_skynetsporthd_720p/chunklist.m3u8
 
@@ -419,7 +428,7 @@ https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg",MU TV
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",Mola FREE
-https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
+https://livestreaming-google-etslive.vidio.com/live/6840/master.m3u8
 
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",OLYMPIC CHANNEL

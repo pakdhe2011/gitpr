@@ -95,6 +95,12 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 (server 2)
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="EURO 2020", (TH) NBT 2 HD
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="EURO 2020", (TH) NBT 2 HD (server 2)
+https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeOTA0YzcwMDk2MGY0ZDljYWEzNwNjYwYjg5NjQzYjYwY2E2
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
@@ -117,6 +123,12 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_w514767285_b10
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PPTV 36 (SD)
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PPTV 36 (HD)
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w581857524_b4692000_slThai.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
@@ -210,10 +222,18 @@ http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 
 http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 (server 2)
+http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 (server 2)
+http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 (server 2)
+http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
+http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/HD-1.png",Bein Sports USA HD
 
@@ -446,7 +466,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
 
 
 
@@ -770,6 +789,8 @@ https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/
 http://190.2.155.140:8278/streams/d/mcot_pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="09 ASIA TENGGARA", (TH) NBT 2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+
+https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeOTA0YzcwMDk2MGY0ZDljYWEzNwNjYwYjg5NjQzYjYwY2E2
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.ibb.co/cYX7YvW/news1logobyvovanloc.png", (TH) News 1
 http://news1.live14.com/stream/news1_mid.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) PPTV HD

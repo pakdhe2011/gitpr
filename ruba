@@ -9,7 +9,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w2013109018_b
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b192000_sleng.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV
-https://cdn4.mbahnunungonline.net/m3u8/df56d15c1ad325a.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/df56d15c1ad325a.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/MKv6905z/globalTV.jpg",GTV (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
@@ -20,7 +20,7 @@ https://livestreaming-google-etslive.vidio.com/live/205/master.m3u8
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews
-https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8 
+https://tv.mbahnunungonline.net/playlist/inewsPlaylist.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/3Rb3CWPL/MNCnews.jpg",iNews (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus-avc1_1000000=6-mp4a_98800_eng=2.m3u8
 
@@ -42,7 +42,7 @@ https://livestreaming-google-etslive.vidio.com/live/777/master.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
-https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/d9bbf6929ec1028.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
@@ -55,7 +55,7 @@ https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1-avc1_1
 https://livestreaming-google-etslive.vidio.com/live/206/master.m3u8
 
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
-https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8 
+https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI (VISION+)
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 

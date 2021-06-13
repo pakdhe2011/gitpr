@@ -121,6 +121,9 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="COPA AMERICA 2021", Champion TV 3 (Vidio)
+https://livestreaming-google-etslive.vidio.com/live/6786/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
@@ -139,10 +142,13 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4WkfLny/images-1.jpg" group-title="02 SPORTS",ZQ Sports
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NPpnv1mjO5aczx3_WNiN35NhWjs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7798/bali-united-friendly-match-fd2336.jpg" group-title="02 SPORTS",(13/6/21 15.00 WIB) BALI UNITED VS PSIM YOGYAKARTA
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NPpnv1mjO5aczx3_WNiN35NhWjs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7798/bali-united-friendly-match-fd2336.jpg" group-title="02 SPORTS",(14/6/21 15.30 WIB) BALI UNITED VS PSIM YOGYAKARTA
 https://livestreaming-google-etslive.vidio.com/live/7798/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Eba6h3SihojrAYUhq0FYr1vOzwI=/766x328/filters:quality(75)/vidio-web-prod-headline/uploads/headline/image/8920/bali-united-vs-persis-solo-355c2f.jpg" group-title="02 SPORTS",(16/6/21 15.30 WIB) BALI UNITED VS PERSIS SOLO
+https://livestreaming-google-etslive.vidio.com/live/7799/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vQfCq6FLLnsojdf06gUeenKeNLE=/766x328/filters:quality(75)/vidio-web-prod-headline/uploads/headline/image/8921/bali-united-vs-barito-putera-16c5d7.jpg" group-title="02 SPORTS",(19/6/21 15.30 WIB) BALI UNITED VS PERSIS SOLO
+https://livestreaming-google-etslive.vidio.com/live/7800/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://worldofvolley.com/sw4i/box/image/Logo%20FIVB%20Liga%20nacija%20(7).jpg?imageId=95976&thumb=1" group-title="02 SPORTS",VNL Court 1 (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/7784/master.m3u8

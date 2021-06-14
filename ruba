@@ -100,12 +100,7 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5433
-#EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="EURO 2020", (TH) NBT 2 HD
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM SUKAN
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
+
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
 https://cdn4.mbahnunungonline.net/m3u8/7cb6654ebec98b7.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg",MNC TV
@@ -130,12 +125,8 @@ http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="COPA AMERICA 2021",Sony SIX
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5433
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PPTV 36 (SD)
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PPTV 36 (HD)
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w581857524_b4692000_slThai.m3u8
+
+
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
 http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia

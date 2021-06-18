@@ -102,15 +102,15 @@ http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-3-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 3 (ENGLISH)
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-4-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 4 (FRENCH)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-title="EURO 2020" ,Bein Sports MAX 4 (FRENCH)
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 (server 2)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 (HD)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX
@@ -141,21 +141,23 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="COPA AMERICA 2021", Champion TV 3 (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-5-arabia.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 5
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 5
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-6-arabia.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 6
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 6
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 (HD)
+http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="COPA AMERICA 2021",Sony SIX
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="COPA AMERICA 2021",Sony SIX (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5433
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
 http://ztvuk.com:8080/younis/younis123/12206
 
@@ -266,23 +268,23 @@ http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 
 http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 (server 2)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 (HD)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 (server 2)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="02 SPORTS",Sony Ten 2 (HD)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 (server 2)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j83FZ7h/20200226-220620.png" group-title="02 SPORTS",Sony Ten 3 (HD)
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8

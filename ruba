@@ -91,7 +91,20 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="EURO 2020", ESPN
+https://gma2.blab.email/fs2.m3u8
 
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
+http://ztvuk.com:8080/younis/younis123/12206
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
+http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-1-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 1 (ARABIC)
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8
 
@@ -116,24 +129,20 @@ http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="EURO 2020", ESPN
-https://gma2.blab.email/fs2.m3u8
 
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
-http://ztvuk.com:8080/younis/younis123/12206
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
-http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
-http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="COPA AMERICA 2021", Champion TV 3 (Vidio)
 http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
+http://ztvuk.com:8080/younis/younis123/12206
+
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
+http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
+https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 5
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
 
@@ -149,15 +158,7 @@ http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="COPA AMERICA 2021",Sony SIX (HD)
 http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
-http://ztvuk.com:8080/younis/younis123/12206
 
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
-http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Eba6h3SihojrAYUhq0FYr1vOzwI=/766x328/filters:quality(75)/vidio-web-prod-headline/uploads/headline/image/8920/bali-united-vs-persis-solo-355c2f.jpg" group-title="02 SPORTS",(16/6/21 15.30 WIB) BALI UNITED VS PERSIS SOLO

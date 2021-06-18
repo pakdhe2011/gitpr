@@ -92,16 +92,31 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT MAX 3 HD" tvg-logo="http://dimapro.cz:8080/images/f743017aea4fd8ac2c2f8eea06acb8d4.png" group-title="EURO 2020",BEIN SPORT MAX 3 HD
-http://dimapro.cz:8080/690012307441436/690012307441436/67778
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="EURO 2020" ,Bein Sports MAX 1 (ARABIC)
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="EURO 2020" ,Bein Sports MAX 2 (ARABIC)
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="EURO 2020" ,Bein Sports MAX 3 (ENGLISH)
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="EURO 2020" ,Bein Sports MAX 4 (FRENCH)
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="EURO 2020",Sony Ten 2 (server 2)
 http://cdn.naturalbd.com:8083/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX
 http://cdn.naturalbd.com:8083/SonySix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="EURO 2020", ESPN
+https://gma2.blab.email/fs2.m3u8
+
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5433
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
 http://ztvuk.com:8080/younis/younis123/12206
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg",RCTI
@@ -120,8 +135,12 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="COPA AMERICA 2021", Champion TV 3 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/6786/master.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 5
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 6
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HzLQ0c/20200226-220424.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
@@ -148,6 +167,24 @@ https://livestreaming-google-etslive.vidio.com/live/7800/master.m3u8
 https://livestreaming-google-etslive.vidio.com/live/7784/master.m3u8
 #EXTINF:-1 tvg-logo="https://worldofvolley.com/sw4i/box/image/Logo%20FIVB%20Liga%20nacija%20(7).jpg?imageId=95976&thumb=1" group-title="02 SPORTS",VNL Court 2 (Vidio)
 https://livestreaming-google-etslive.vidio.com/live/7785/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 1
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 2
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 3
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 4
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 5
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 6
+http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 http://77.83.117.60:8888//03_skynetsporthd_720p/chunklist.m3u8
@@ -216,14 +253,12 @@ http://77.83.117.60:8888//02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMxjFWM/20200226-194849.png" group-title="02 SPORTS",BeInSports 1 AR
 http://77.83.117.60:8888//02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein1.jpg",Bein Sports 1
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-
-
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein1
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2 AR
 http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
+http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 
 http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByKs8MD/20200226-220244.png" group-title="02 SPORTS",Sony Ten 1 (server 2)
@@ -250,7 +285,7 @@ http://42.201.228.226:8678/PTVSPORT_NOC_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",PTV Sports (MOBILE)
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5433
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (MOBILE)
 http://ztvuk.com:8080/younis/younis123/12206
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",OMAN SPORTS (HD)
@@ -264,15 +299,18 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b250
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/chunklist_w49272953_b1128000_slThai.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/6685/master.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6685
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="02 SPORTS", Champion TV 1 (Usee)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/6686/master.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6686
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="02 SPORTS", Champion TV 2 (Usee)
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="02 SPORTS", Champion TV 3 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/6786/master.m3u8
+http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+
 
 
 

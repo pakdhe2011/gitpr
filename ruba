@@ -91,8 +91,10 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="EURO 2020", ESPN
-https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/0363870b-2275-4326-a2b0-f612ebe67836/image.jpeg?w=1920&h=1080" group-title="EURO 2020", SWISS VS TURKI
+https://cdn02.mola.tv/Content/HLS/Live/channel(0161222f-d029-2abf-9b09-8d82f61c603e)/09.m3u8
+#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/e9689dfb-1cd4-47dc-b304-e9c7dcbf2099/image.jpeg?w=1920&h=1080" group-title="EURO 2020", ITALY VS WALES
+https://cdn02.mola.tv/Content/HLS/Live/channel(a191da22-a085-f25c-4f56-f60e0ca5efeb)/09.m3u8
 
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
@@ -809,18 +811,17 @@ https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://static.iptv-epg.com/th/Channel7.th.png",(MR) Channel 7
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="http://kamiselaluada.com/img/rtmokey.png",(MY) RTM OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png",(MY) RTM SUKAN
 http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://www.xtra.com.my/img/logo/tv3.png",(MY) TV3
-http://50.7.222.130:8278/streams/d/TV3sd/playlist.m3u8
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
+
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png",(SG) 8频道 (Ch 8)
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png",(SG) Channel 5

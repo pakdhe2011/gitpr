@@ -108,19 +108,6 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-1-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 1 (ARABIC)
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-2-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 2 (ARABIC)
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX2HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/bein-max-3-arabia.png" group-title="EURO 2020" ,Bein Sports MAX 3 (ENGLISH)
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX3HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" group-title="EURO 2020" ,Bein Sports MAX 4 (FRENCH)
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX4HD-ar/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 (server 2)
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8

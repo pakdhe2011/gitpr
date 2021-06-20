@@ -92,6 +92,8 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/e9689dfb-1cd4-47dc-b304-e9c7dcbf2099/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 01 ITALY VS WALES
 https://cdn02.mola.tv/Content/HLS/Live/channel(a191da22-a085-f25c-4f56-f60e0ca5efeb)/09.m3u8
+#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/e9689dfb-1cd4-47dc-b304-e9c7dcbf2099/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 01 ITALY VS WALES (2)
+https://s.id/BPRfS
 #EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/0363870b-2275-4326-a2b0-f612ebe67836/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 02 SWISS VS TURKI
 https://cdn02.mola.tv/Content/HLS/Live/channel(0161222f-d029-2abf-9b09-8d82f61c603e)/09.m3u8
 

@@ -91,9 +91,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/e9689dfb-1cd4-47dc-b304-e9c7dcbf2099/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 01 ITALY VS WALES
-http://gg.gg/EUMTCH1
+https://cdn02.mola.tv/Content/HLS/Live/channel(a191da22-a085-f25c-4f56-f60e0ca5efeb)/09.m3u8
 #EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/0363870b-2275-4326-a2b0-f612ebe67836/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 02 SWISS VS TURKI
-http://gg.gg/EUMTCH2
+https://cdn02.mola.tv/Content/HLS/Live/channel(0161222f-d029-2abf-9b09-8d82f61c603e)/09.m3u8
 
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8

@@ -136,12 +136,6 @@ http://ztvuk.com:8080/younis/younis123/12206
 http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 5
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX5HD-ar/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-6.png" group-title="COPA AMERICA 2021" ,Bein Sports MAX 6
-http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX6HD-ar/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 (server 2)
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 (HD)

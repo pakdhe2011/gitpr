@@ -82,14 +82,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (2)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/632bbcf6-93a9-49bb-9c4c-aa37ae3046c5/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 01 MAKEDONIA UTARA VS BELANDA (HD)
+#EXTINF:-1 tvg-logo="" group-title="EURO 2020", 02 SWEDIA VS POLANDIA (HD)
+https://cdn02.mola.tv/Content/HLS/Live/channel(92cc4495-d492-00e5-f3a0-1df8a0d3f185)/09.m3u8
 
-#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/632bbcf6-93a9-49bb-9c4c-aa37ae3046c5/image.jpeg?w=1920&h=1080" group-title="EURO 2020", 01 MAKEDONIA UTARA VS BELANDA (SD)
-
-
-#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/1717942f-de47-4f71-a517-12e932b1d7c9/image.jpeg?w=450" group-title="EURO 2020", 02 UKRAINA VS AUSTRIA (HD)
-
-#EXTINF:-1 tvg-logo="https://res-mola01.koicdn.com/image/1717942f-de47-4f71-a517-12e932b1d7c9/image.jpeg?w=450" group-title="EURO 2020", 02 UKRAINA VS AUSTRIA (SD)
 
 
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
@@ -119,7 +114,7 @@ http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="COPA AMERICA 2021", Champion TV 3 (Vidio)
-http://home-tv.my.id/RHS/mei3021.m3u8?channel=vidio-6786
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-6786
 #EXTINF:-1 group-title="COPA AMERICA 2021" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="COPA AMERICA 2021",Sony Ten 2 
@@ -144,15 +139,12 @@ http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Eba6h3SihojrAYUhq0FYr1vOzwI=/766x328/filters:quality(75)/vidio-web-prod-headline/uploads/headline/image/8920/bali-united-vs-persis-solo-355c2f.jpg" group-title="02 SPORTS",(16/6/21 15.30 WIB) BALI UNITED VS PERSIS SOLO
-https://livestreaming-google-etslive.vidio.com/live/7799/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vQfCq6FLLnsojdf06gUeenKeNLE=/766x328/filters:quality(75)/vidio-web-prod-headline/uploads/headline/image/8921/bali-united-vs-barito-putera-16c5d7.jpg" group-title="02 SPORTS",(19/6/21 15.30 WIB) BALI UNITED VS PERSIS SOLO
-https://livestreaming-google-etslive.vidio.com/live/7800/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://worldofvolley.com/sw4i/box/image/Logo%20FIVB%20Liga%20nacija%20(7).jpg?imageId=95976&thumb=1" group-title="02 SPORTS",VNL Court 1 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/7784/master.m3u8
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-7784
 #EXTINF:-1 tvg-logo="https://worldofvolley.com/sw4i/box/image/Logo%20FIVB%20Liga%20nacija%20(7).jpg?imageId=95976&thumb=1" group-title="02 SPORTS",VNL Court 2 (Vidio)
-https://livestreaming-google-etslive.vidio.com/live/7785/master.m3u8
+https://radenroro.net/RHS/belum_migrasi.m3u8?channel=vidio-7785
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F894%2Fbein-sports-premium-1.png" group-title="02 SPORTS" ,Bein Sports MAX 1
 http://212.102.60.40:2200/EX/BEIN_SPORTS_MAX1HD-ar/tracks-v1a1/mono.m3u8

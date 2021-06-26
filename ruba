@@ -753,7 +753,7 @@ https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",(TH) MCOT HD
 http://190.2.155.140:8278/streams/d/mcot_pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/nbt.png" group-title="09 ASIA TENGGARA", (TH) NBT 2 HD
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+https://www.livedoomovie.com/02_NBTSD_480p/chunklist.m3u8
 
 https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeOTA0YzcwMDk2MGY0ZDljYWEzNwNjYwYjg5NjQzYjYwY2E2
 #EXTINF:-1 group-title="09 ASIA TENGGARA" tvg-logo="https://i.ibb.co/cYX7YvW/news1logobyvovanloc.png", (TH) News 1

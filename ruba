@@ -939,22 +939,31 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 
 http://scontent.1xcdn.xyz/j2/Ten2_HD_HLS.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="EURO 2020",Sony Ten 2 (SD)
+http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="EURO 2020",Sony Ten 1 
 http://scontent.1xcdn.xyz/j2/Ten_HD_HLS.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="EURO 2020",Sony Ten 1 (SD)
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="EURO 2020",Sony Ten 3
+http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 (SD)
+http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ee/espn_us_corp.png" group-title="EURO 2020", ESPN HD
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1
 https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1 (2)
 https://chostv.mobie.in/choos/sports/matchqy1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="EURO 2020",Sony Ten 3
-http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
-
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK (2)
 http://ztvuk.com:8080/younis/younis123/12206
+
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv1.jpg",SPORT TV 1
 http://77.83.117.60:8888//02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/hd-sporttv2.jpg",SPORT TV 2
@@ -963,11 +972,6 @@ http://77.83.117.60:8888//02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png",Match TV Russia
 https://95-213-224-169.livesports24.online/ooomatch.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="EURO 2020",Sony SIX (HD)
-http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 
 
@@ -1045,27 +1049,13 @@ http://77.83.117.60:8888//02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/08/ar-bein2.jpg",Bein Sports 2
 http://us.5d63d49f772ce.cloudns.org/US33T4/MPD/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 
-http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 (server 2)
-http://cdn.naturalbd.com:8083/SonyTen1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-india.png" group-title="02 SPORTS",Sony Ten 1 (HD)
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_1_HD-in/tracks-v1a1/index.m3u8
+http://cdn.ihub.live:8080/SonyTen1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 
-http://103.81.104.118/hls/stream39.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 (server 2)
 http://cdn.ihub.live:8080/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-2-india.png" group-title="02 SPORTS",Sony Ten 2 (HD)
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_2_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 
 http://cdn.ihub.live:8080/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 (server 2)
-http://cdn.naturalbd.com:8083/SonyTen3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="02 SPORTS",Sony Ten 3 (HD)
-http://212.102.60.40:2200/R-EX/SPORTS_TEN_3_HD-in/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="02 SPORTS",Sony SIX (HD)
-http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
+http://cdn.ihub.live:8080/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/06/HD-1.png",Bein Sports USA HD
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports XTRA

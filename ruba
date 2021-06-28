@@ -945,6 +945,11 @@ http://scontent.1xcdn.xyz/j2/Ten_HD_HLS.m3u8
 #EXTINF:-1 group-title="EURO 2020" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TEN Sports PK
 http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
 
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1
+https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 group-title="EURO 2020" tvg-logo="https://ntvplus.tv/files/image/01/17/29/mqs.png",Матч! Футбол 1 (2)
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-3-india.png" group-title="EURO 2020",Sony Ten 3
 http://scontent.1xcdn.xyz/j2/Ten3_HD_HLS.m3u8
 

@@ -86,6 +86,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (2)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg", CHELSEA VS ARSENAL
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/4bnEk1dStJHnbEyHGmFlXivO9Gr7brFBPTgcCPQtZelXdqvkvNGPOAbuThmOCDSrJtz_w3tPAtPKECNl9DEYrg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png" group-title="02 SPORTS",OLYMPIC 1
 http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png" group-title="02 SPORTS",OLYMPIC 2

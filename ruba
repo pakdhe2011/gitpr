@@ -86,40 +86,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(02)/index.m3u
 #EXTINF:-1 group-title="01 TV NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI NASIONAL (2)
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg", CHELSEA VS ARSENAL
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/4bnEk1dStJHnbEyHGmFlXivO9Gr7brFBPTgcCPQtZelXdqvkvNGPOAbuThmOCDSrJtz_w3tPAtPKECNl9DEYrg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_01.png" group-title="02 SPORTS",OLYMPIC 1
-http://185.224.216.1:8081/doofootball_r9/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_02.png" group-title="02 SPORTS",OLYMPIC 2
-http://185.224.216.1:8081/doofootball_r9/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_03.png" group-title="02 SPORTS",OLYMPIC 3
-http://185.224.216.1:8081/doofootball_r9/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_04.png" group-title="02 SPORTS",OLYMPIC 4
-http://185.224.216.1:8081/doofootball_r9/channel4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_05.png" group-title="02 SPORTS",OLYMPIC 5
-http://185.224.216.1:8081/doofootball_r9/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_06.png" group-title="02 SPORTS",OLYMPIC 6
-http://185.224.216.1:8081/doofootball_r9/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_07.png" group-title="02 SPORTS",OLYMPIC 7
-http://185.224.216.1:8081/doofootball_r9/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_08.png" group-title="02 SPORTS",OLYMPIC 8
-http://185.224.216.1:8081/doofootball_r9/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 9" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_09.png" group-title="02 SPORTS",OLYMPIC 9
-http://185.224.216.1:8081/doofootball_r9/channel9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_10.png" group-title="02 SPORTS",OLYMPIC 10
-http://185.224.216.1:8081/doofootball_r9/channel10/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_11.png" group-title="02 SPORTS",OLYMPIC 11
-http://185.224.216.1:8081/doofootball_r9/channel11/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 12" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_12.png" group-title="02 SPORTS",OLYMPIC 12
-http://185.224.216.1:8081/doofootball_r9/channel12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 13" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_13.png" group-title="02 SPORTS",OLYMPIC 13
-http://185.224.216.1:8081/doofootball_r9/channel13/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 14" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_14.png" group-title="02 SPORTS",OLYMPIC 14
-http://185.224.216.1:8081/doofootball_r9/channel14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 15" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_15.png" group-title="02 SPORTS",OLYMPIC 15
-http://185.224.216.1:8081/doofootball_r9/channel15/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OLYMPIC 16" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AIS_PLAY_OLYMPIC_16.png" group-title="02 SPORTS",OLYMPIC 16
-http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-skynetsportshd.png",SKYNET SPORTS HD
 http://77.83.117.60:8888//03_skynetsporthd_720p/chunklist.m3u8
@@ -157,17 +123,13 @@ http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="61" tvg-id="assp" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp1hd.png?rev=8",Astro SuperSport
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-chno="62" tvg-id="assp2" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp2hd.png?rev=8",Astro SuperSport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-id="assp3" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp3hd.png?rev=8",Astro SuperSport 3
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="64" tvg-id="assp4" group-title="02 SPORTS" tvg-logo="https://iptvthai.my.to/logo/my-asp4hd.png?rev=8",Astro SuperSport 4
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl3.png",True Premier 3
 https://sport.livedoomovies.com/02_PremierHD3_480p/chunklist.m3u8

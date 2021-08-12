@@ -198,7 +198,7 @@ http://77.83.117.60:8888//02_BTSPORTHD_1_720p/chunklist.m3u8
 http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BT SPORT 2 HD
-http://77.83.117.60:8888//02_BTSPORTHD_2_720p/chunklist.m3u8
+http://stream.tvtap.live:8081/live/bt220.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tny.im/nKH" group-title="02 SPORTS", BT SPORTS 3
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
@@ -339,6 +339,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://lh3.googleusercontent.com/-TCaB0mkjOYs/U2uWKSfVcCI/AAAAAAAACCI/AOSFK_159s0ilaoEwBUzX86CuHujnNOLQCEwYBhgL/w140-h140-p/0.jpg",TVRI SPORTS
 
+#EXTINF:0 tvg-logo="" group-title="02 SPORTS 2", NBCSN HD
+http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="02 SPORTS 2",Astro SuperSport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9hkAP6B3oQdK-8rTcRRwyTGFIi32LQ1GnQ&usqp=CAU" group-title="02 SPORTS 2",Astro SuperSport 2
@@ -405,6 +408,12 @@ http://92.46.127.146:8080/qazsport/index.m3u8
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="02 SPORTS 2",Tsn 1
 http://stream.tvtap.live:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="02 SPORTS 2",Tsn 2
+http://stream.tvtap.live:8081/live/tsn2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="02 SPORTS 2",Tsn 3
+http://stream.tvtap.live:8081/live/tsn3.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7noYj3X965W2gkNyLxbDgfhZemkjbsaHFog&usqp=CAU" group-title="02 SPORTS 2",Tsn 4
+http://stream.tvtap.live:8081/live/tsn4.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Gr2GfPEh_fFGeuG7t5W78d_8psRm-2GjrQ&usqp=CAU" group-title="02 SPORTS 2",Tsn 5
 http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllZNICXFJPVnhNJLqa87lTuBUv71V0SpwoA&usqp=CAU" group-title="02 SPORTS 2",PPTV HD

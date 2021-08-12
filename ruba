@@ -349,6 +349,26 @@ http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7FQDXlU4DqLDQ1e7aGwaTkunwfGUztjsBuA&usqp=CAU" group-title="02 SPORTS 2",Arena Sports
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663834.png" group-title="02 SPORTS 2", SKY PREMIER LEAGUE
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663835.png" group-title="02 SPORTS 2", SKY FOOTBALL
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663836.png" group-title="02 SPORTS 2", SKY SPORTS MIX
+http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663837.png" group-title="02 SPORTS 2", SKY SPORTS 1 DE
+http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663838.png" group-title="02 SPORTS 2", ARENA SPORTS 1
+http://stream.tvtap.live:8081/live/arena1.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663839.png" group-title="02 SPORTS 2", ARENA SPORTS 2
+http://stream.tvtap.live:8081/live/arena2.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663840.png" group-title="02 SPORTS 2", ARENA SPORTS 3
+http://stream.tvtap.live:8081/live/arena3.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663841.png" group-title="02 SPORTS 2", ARENA SPORTS 4
+http://stream.tvtap.live:8081/live/arena4.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b14e1960-c879-11eb-86d9-d98a3ed33ea7/1733577/312663842.png" group-title="02 SPORTS 2", ARENA SPORTS 5
+http://stream.tvtap.live:8081/live/arena5.stream/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyYuYHd0lLxQkbxx8r6d61IFQIFb610cgd0A&usqp=CAU" group-title="02 SPORTS 2",Z-Select Sports
 http://31.220.41.90:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVGEmNwQ66kwkoL15xob9ngvRzrE0TOsRfQ&usqp=CAU" group-title="02 SPORTS 2",SPORTTV-1
@@ -443,10 +463,17 @@ https://chostv.mobie.in/choos/sports/matchqy2.m3u8
 https://95-213-224-173.livesports24.online/ooomatch.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkflSt01vhGKz5D30pSeMelzwuWl5HE01Big&usqp=CAU" group-title="02 SPORTS 2",Jio- Sports
 http://streamavi.ml/jio/live.php?c=Jio_Sports&q=800&e=junk.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-1.png" group-title="02 SPORTS 2",TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="02 SPORTS 2",TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-3.png" group-title="02 SPORTS 2",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="02 SPORTS 2",TNT Sports 4 
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="02 SPORTS 2",TNT Sports 5 
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNLUBqUgpv-mfc_sZ7mNmdAevDlB53ByvoQ&usqp=CAU" group-title="02 SPORTS 2",Tvri Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-T1fNcPdR6doQjKqdaPa1BQxq9oPuViZDMqmSO2s7a4EzdY68IEc9RchkqGh9Q2B0fVc&usqp=CAU" group-title="02 SPORTS 2",Maq Tv

@@ -905,4 +905,4 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="11 NIPPON" tvg-logo="https://i.ibb.co/hRDGPKj/Yomiuri-TV.png", Yomiuri TV
 
 #EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://www.at-x.com/images/common/logo.png group-title="11 NIPPON",AT-X
-https://sub2.neetball.net/live/neet.m3u8
+https://sub2.neetball.net/live/neet.m3u8 

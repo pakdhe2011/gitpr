@@ -91,7 +91,7 @@ http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=0
 http://ycn1.bawsaraskhou.xyz.global.prod.fastly.net/live/88824257/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesport_small.png?v=4.2" group-title="02 SPORTS",Usee Sport 1
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport&bandwidth=default&sync=0
+https://etslive-2-vidio-com.akamaized.net/exp=1633180259~acl=%2fvp9%2f7963_stream.mpd%21%2fvp9%2f7963%2f%2a~hmac=56a63c8c3be5de35c5938c0393e4b71609feff005a9134f1d1722fc2829f44ce/vp9/7963_stream.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useesports2_small.png?v=1.1" group-title="02 SPORTS",Usee Sport 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=useesport2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="02 SPORTS" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/doomovie-epl1.png",True Premier 1

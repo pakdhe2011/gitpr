@@ -318,11 +318,12 @@ https://lnk.ec/shareext@juara3
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="Sports",Champion4
 https://lnk.ec/shareext@juara4
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
+#EXTINF:-1 tvg-logo="" group-title="Sports", Usee Sports 1
 https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
 http://103.102.15.12:8899/stream/channelid/711800493?ticket=CA5272A94BD173E4C6DC2C8388EC911CD6C6A075
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
+#EXTINF:-1 tvg-logo="" group-title="Sports",Usee Sports 2
 https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
+http://103.102.15.12:8899/stream/channelid/1689323526?ticket=BB4A1D23C63F12D98AB18DAFAFB33B7380C0B103&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1

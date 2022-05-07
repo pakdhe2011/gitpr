@@ -318,6 +318,11 @@ https://lnk.ec/shareext@juara3
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="Sports",Champion4
 https://lnk.ec/shareext@juara4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BOLA_1
+https://lnk.ec/shareext@bola1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",BOLA_2
+https://lnk.ec/shareext@bola2
+
 #EXTINF:-1 tvg-logo="" group-title="Sports", Usee Sports 1
 https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
 http://103.102.15.12:8899/stream/channelid/711800493?ticket=CA5272A94BD173E4C6DC2C8388EC911CD6C6A075

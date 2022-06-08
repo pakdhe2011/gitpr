@@ -492,17 +492,6 @@ https://lnk.ec/shareext@bola1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS_2",BOLA_2
 https://lnk.ec/shareext@bola2
 
-#EXTINF:-1  tvg-logo="" group-title="Sports",star Select1
-http://182.50.65.213:8888/udp/239.239.0.6:3001
-#EXTINF:-1  tvg-logo="" group-title="Sports",star select2
-http://182.50.65.213:8888/udp/239.239.0.5:3001
-#EXTINF:-1  tvg-logo="" group-title="Sports",ten1
-http://182.50.65.213:8888/udp/239.239.0.33:3001
-#EXTINF:-1  tvg-logo="" group-title="Sports",ten2
-http://182.50.65.213:8888/udp/239.239.0.34:3001
-#EXTINF:-1  tvg-logo="" group-title="Sports",ten3
-http://182.50.65.213:8888/udp/239.239.0.35:3001
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", Usee Sports 1
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",Usee Sports 2

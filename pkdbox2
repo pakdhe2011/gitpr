@@ -528,6 +528,14 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2 (ALT)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/fmCWx3M3TfhgbFxmxfndJHmJreE3v97vO_3_RCzxVpxSpqhxa4DxgzLqe482a9_FkjJF",SPOTV NOW
+https://bcovlive-a.akamaihd.net/facbf6cdf3f647d48de51fda6e7d2d4b/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/fmCWx3M3TfhgbFxmxfndJHmJreE3v97vO_3_RCzxVpxSpqhxa4DxgzLqe482a9_FkjJF",SPOTV NOW 2
+https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/fmCWx3M3TfhgbFxmxfndJHmJreE3v97vO_3_RCzxVpxSpqhxa4DxgzLqe482a9_FkjJF",SPOTV NOW 3
+https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="Sports",Fight Sports
@@ -619,13 +627,11 @@ http://203.154.243.89:21204/nakhon
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="Sports" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN ARGENTINA
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Sports" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN 2 ARGENTINA
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 (ARG)
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
@@ -645,29 +651,23 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://www.i-pic.info/i/AGju156969.png" group-title="Sports",ESPN PORTUGAL 4
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://megatelehd.webcindario.com/helsinki.php
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/350/500/0/0/15179620073951.png",Fox Sports Premium ARG
 https://chromecast.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licspa.php
-#EXTINF:-1 tvg-name="Fox Sport 1" tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/3044145807979.png", FOX Sports ARG
+#EXTINF:-1 tvg-name="Fox Sport 1" tvg-logo="https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/3044145807979.png", FOX Sports LATINO
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licspa.php
-#EXTINF:-1 tvg-name="Fox Sport 2" tvg-logo="https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/17148449072785.png",FOX Sports 2 ARG
+
+#EXTINF:-1 tvg-name="Fox Sport 2" tvg-logo="https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/17148449072785.png",FOX Sports 2 LATINO
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licspa.php
-#EXTINF:-1 tvg-name="Fox Sport 3" tvg-logo="https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/56828142072366.png",FOX Sports 3 ARG
+#EXTINF:-1 tvg-name="Fox Sport 3" tvg-logo="https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/56828142072366.png",FOX Sports 3 LATINO
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Sukan_RTMmedium.jpg" group-title="Sports" tvg-id="CHN" tvg-name="CHN", Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xHXZoUP.png",AD Sports 2
@@ -918,12 +918,12 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/BzbgaxF.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Love Nature HD", Love Nature HD
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
+https://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/5znakl6.png?v=1.0.0.1" group-title="Knowledge" tvg-id="Smithsonian Channel", Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi

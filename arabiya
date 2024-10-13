@@ -24,8 +24,6 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 1
-http://tgn.bozztv.com/gin-dvrfl05/gin-kuwaittv1/tracks-v1a1/mono.m3u8?nimblesessionid=377086058&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNCAxMjowNTo1MiBQTSZoYXNoX3ZhbHVlPVUybm55L1pOaWZER0xwcVpXNnEvbmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="Arabiya", SSC 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280132
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="Arabiya", SSC 2
@@ -60,3 +58,61 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/in
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Kuwait Sports	
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport Global HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/22186.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport News HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/318230.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_1_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_1_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325793.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_2_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_2_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325794.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_3_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_3_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325795.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_4_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_4_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325796.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_5_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_5_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325797.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_6_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_6_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325798.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_7_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_7_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325799.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_8_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_8_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325800.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport_9_HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport_9_HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325801.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD English" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport 1 HD English
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/318217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD English" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport 2 HD English
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/318218.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD Frensh" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport 1 HD Frensh 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/319437.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD Frensh" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport 2 HD Frensh 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/319438.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 1 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport Xtra 1 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/325802.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport Xtra 2 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/319435.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport Xtra 3 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/319436.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="Arabiya",beIN Sport NBA HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/318219.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Premium 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Premium 1 HD
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244179.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Premium 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Premium 2 HD
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244182.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Asia 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Asia 1 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244188.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Asia 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Asia 2 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244191.ts
+#EXTINF:-1 tvg-ID="" tvg-name="StarzPlay Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",StarzPlay Sport HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244185.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport Cric Life 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",Ad Sport Cric Life 1 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316085.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport Cric Life 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",Ad Sport Cric Life 2 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316086.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Cric Life 3 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Cric Life 3 HD 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/327243.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Golf Life HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Golf Life HD
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/327245.ts 
+#EXTINF:-1 tvg-ID="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",StarzPlay Sport 4K 
+http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316084.ts

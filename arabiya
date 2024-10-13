@@ -30,3 +30,37 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?c
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 1
 http://tgn.bozztv.com/gin-dvrfl05/gin-kuwaittv1/tracks-v1a1/mono.m3u8?nimblesessionid=377086058&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNCAxMjowNTo1MiBQTSZoYXNoX3ZhbHVlPVUybm55L1pOaWZER0xwcVpXNnEvbmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="Arabiya", SSC 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280132
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="Arabiya", SSC 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280137
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/b3fd86edcadc219abf9e193c44d4daa0.png" group-title="Arabiya", SSC 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280134
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dd5b9adc01f4d38a7291c8e042ef6199.png" group-title="Arabiya", SSC 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280133
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0dfbee45bdbdde5a0fe41c43b15098f3.png" group-title="Arabiya", SSC 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280135
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f53327d1f338988a04f24537da4e8e6f.png" group-title="Arabiya", SSC Extra 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280136
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/69228f4aa2e4d1b1fdc80d6d99720b00.png" group-title="Arabiya", SSC Extra 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/281462
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/797ca4ea5c06b01acd35f5309e54dbc8.png" group-title="Arabiya", SSC Extra 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299730
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4f426fd13780a71ff829685a7feac5d1.png" group-title="Arabiya", Bahrain Sports 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/121097
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/1f001aea9dba05cfea661783c99d649c.png" group-title="Arabiya", Bahrain Sports 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145860
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Iraq Sport	
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Oman Sport	
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Afro Sport	
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", AbuDhabi Sports 1	
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", AbuDhabi Sports 2	
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", SMC 4 Sports(AR)	
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Kuwait Sports	
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8

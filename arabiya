@@ -1,0 +1,32 @@
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Quran Al Kareem
+http://m.live.net.sa:1935/live/quran/.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Sunnah Nabawi
+http://m.live.net.sa:1935/live/sunnah/.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Saudiyah TV
+https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_480p/hdntl=exp=1728907725~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=5fc252cff63779a30c5311cb503ab84bc2ee73994eaa8a5699973d2b10c5b09a/chunks_dvr.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Khuzama Radio
+https://live.kwikmotion.com/khuzamaradiolive/khuzama_source/hdntl=exp=1728907819~acl=%2fkhuzamaradiolive%2fkhuzama_source%2f*~data=hdntl~hmac=e22ba2e931ea7857a53a0ddfcf1dd6f4d46af67ec4fddcc928dd5c68272b5324/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports 
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Qamar TV
+https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiy 2
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",BBC Arabic
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Khalij
+http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 1
+http://tgn.bozztv.com/gin-dvrfl05/gin-kuwaittv1/tracks-v1a1/mono.m3u8?nimblesessionid=377086058&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNCAxMjowNTo1MiBQTSZoYXNoX3ZhbHVlPVUybm55L1pOaWZER0xwcVpXNnEvbmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNQ==

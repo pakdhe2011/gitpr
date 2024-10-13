@@ -2,10 +2,6 @@
 http://m.live.net.sa:1935/live/quran/.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Sunnah Nabawi
 http://m.live.net.sa:1935/live/sunnah/.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Saudiyah TV
-https://live.kwikmotion.com/ksa1live/ksa1.smil/ksa1publish/ksa1_480p/hdntl=exp=1728907725~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=5fc252cff63779a30c5311cb503ab84bc2ee73994eaa8a5699973d2b10c5b09a/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Khuzama Radio
-https://live.kwikmotion.com/khuzamaradiolive/khuzama_source/hdntl=exp=1728907819~acl=%2fkhuzamaradiolive%2fkhuzama_source%2f*~data=hdntl~hmac=e22ba2e931ea7857a53a0ddfcf1dd6f4d46af67ec4fddcc928dd5c68272b5324/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports 
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports 2

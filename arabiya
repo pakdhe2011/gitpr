@@ -15,8 +15,6 @@ https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunkli
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Qamar TV
 https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",MBC Drama
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiy 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",BBC Arabic
@@ -25,6 +23,30 @@ https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabi
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Maaref TV Kuwait
+https://list.iptvcat.com/my_list/s/f41e1ee375c5f9a2f2fc10cf6b3ac8e8.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 1
+https://list.iptvcat.com/my_list/s/d1ccc6c384a87fe6ee3339fd96ebd47a.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 2
+https://list.iptvcat.com/my_list/s/f49b81467772077b82ec1f73e674e649.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV  Al Majlis
+https://list.iptvcat.com/my_list/s/3eac56f165bab3a269fa65fd64845b4e.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV Sport
+https://list.iptvcat.com/my_list/s/527b7a3e6c34046570e14248309beb42.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV Sport Plus
+https://list.iptvcat.com/my_list/s/e2bd6314efe09254e288d376dea4492c.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Oman TV
+https://list.iptvcat.com/my_list/s/a3c72ab03e9e4cb528689400a0d09cfc.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Qatar TV
+https://list.iptvcat.com/my_list/s/deb941f238a48082b54c71297c65671e.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Ajman TV
+https://list.iptvcat.com/my_list/s/f5a42d4e878fc2cd2175a798367e4f88.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiya TV
+https://list.iptvcat.com/my_list/s/f898601dd41e9db60a7710cd6c52232b.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al MBC 1
+https://list.iptvcat.com/my_list/s/25c1717a5d3863c752f0696ab95d1101.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Noor Dubai TV
+https://list.iptvcat.com/my_list/s/f9a529f080d0fe35fb28e5713ce57abc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="Arabiya", SSC 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280132
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="Arabiya", SSC 2
@@ -107,13 +129,3 @@ http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244188.ts
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244191.ts
 #EXTINF:-1 tvg-ID="" tvg-name="StarzPlay Sport HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",StarzPlay Sport HD 
 http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/244185.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport Cric Life 1 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",Ad Sport Cric Life 1 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316085.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="Ad Sport Cric Life 2 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",Ad Sport Cric Life 2 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316086.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Cric Life 3 HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Cric Life 3 HD 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/327243.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="AD Sport Golf Life HD" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",AD Sport Golf Life HD
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/327245.ts 
-#EXTINF:-1 tvg-ID="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/STARZ.png" group-title="Arabiya",StarzPlay Sport 4K 
-http://1tv1.net:8080/live/d0:d0:03:bc:36:04/Fgjggtjjhgg/316084.ts

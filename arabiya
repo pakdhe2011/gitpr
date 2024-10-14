@@ -24,29 +24,27 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8?c
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Khalij
 http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Maaref TV Kuwait
-https://list.iptvcat.com/my_list/s/f41e1ee375c5f9a2f2fc10cf6b3ac8e8.m3u8
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 1
-https://list.iptvcat.com/my_list/s/d1ccc6c384a87fe6ee3339fd96ebd47a.m3u8
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV 2
-https://list.iptvcat.com/my_list/s/f49b81467772077b82ec1f73e674e649.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV  Al Majlis
-https://list.iptvcat.com/my_list/s/3eac56f165bab3a269fa65fd64845b4e.m3u8
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV Sport
-https://list.iptvcat.com/my_list/s/527b7a3e6c34046570e14248309beb42.m3u8
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Kuwait TV Sport Plus
-https://list.iptvcat.com/my_list/s/e2bd6314efe09254e288d376dea4492c.m3u8
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Oman TV
-https://list.iptvcat.com/my_list/s/a3c72ab03e9e4cb528689400a0d09cfc.m3u8
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Qatar TV
-https://list.iptvcat.com/my_list/s/deb941f238a48082b54c71297c65671e.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Ajman TV
-https://list.iptvcat.com/my_list/s/f5a42d4e878fc2cd2175a798367e4f88.m3u8
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiya TV
-https://list.iptvcat.com/my_list/s/f898601dd41e9db60a7710cd6c52232b.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al MBC 1
-https://list.iptvcat.com/my_list/s/25c1717a5d3863c752f0696ab95d1101.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Noor Dubai TV
-https://list.iptvcat.com/my_list/s/f9a529f080d0fe35fb28e5713ce57abc.m3u8
+https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7d8ca02d8a1abfbf18a1993f8ed669f1.png" group-title="Arabiya", SSC 1
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/280132
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e0ea981e0a90f7ddf716f269154d3925.png" group-title="Arabiya", SSC 2

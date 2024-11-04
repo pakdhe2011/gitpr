@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Quran Al Kareem
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Sunnah Nabawi
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Sunnah Nabawiyah
 https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiya TV
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
@@ -104,6 +104,4 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/in
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8?c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", SMC 4 Sports(AR)	
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0NcrJt/shareext-soccer.jpg" group-title="Arabiya", Kuwait Sports	
-https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
 

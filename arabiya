@@ -5,6 +5,8 @@
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Sunnah Nabawiyah
 https://kister.net/mpl/yt2m3u8?w=@SaudiSunnahTv
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",AL Quran Al Kareem 2
+https://kister.net/mpl/yt2m3u8?w=@SaudiQuranTv
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Arabiya TV
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Dubai Sports

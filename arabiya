@@ -36,6 +36,18 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8?checkedby:iptvca
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-rokCKG5tCkY/Wws7jGYGULI/AAAAAAAATNU/v80fDLlCGJcN1TvkYVbP9gygG4UIqC7eQCLcBGAs/s1600/al_hadath_news_eg.png" group-title="Arabiya",Al Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Belqees TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730933558/ei/1p4rZ9PmBrWX4t4PofLekA8/ip/180.253.78.202/id/YDIcwHOkaqI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAcJT_N_rCmmWR0dLvWgKCuzHZg9TNNUfqac2YuBwU5Fof1sHAK0w8cbK7M4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKdJT868O7Le837fCanLh_rKNJQlO2jLOL9Uq120FdSoCIQDWx1b3etUlRKvBCkeHJk46uf9EzDHCk30DZbDMul_uuQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Almahriah TV
+https://master.starmena-cloud.com/hls/almahriah.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Yemen Shabab TV
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Yemen Today TV
+https://video.yementdy.tv/hls/yementoday_src.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Al Mashirah TV
+https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Aden TV
+https://usher.ttvnw.net/api/channel/hls/adentv64.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiMDRkMDBlMzItZmZkNC00ZTIwLWJmMmQtNzQ2ZWY5MGRjZjMzIn0%3D&allow_source=true&browser_family=chrome&browser_version=130.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=8529123&parent_domains=twitchplayer&platform=web&play_session_id=33a93c05883ba584a3cffd73ef35d5f0&player_backend=mediaplayer&player_version=1.34.0-rc.2.2&playlist_include_framerate=true&reassignments_supported=true&sig=4699edd9aff3263149786d3e1de4bb9a75e15b6a&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22adentv64%22%2C%22channel_id%22%3A951590898%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%220Yptjk8YqbdswDMyUUBbteuWJEKJ4mR7%22%2C%22expires%22%3A1730913961%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22180.253.78.202%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",MBC 1
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",MBC 3 KSA (1080p)
@@ -44,6 +56,8 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Zad TV Saudi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730934896/ei/EKQrZ_-uKqeO4-EPr-TGoQU/ip/180.253.78.202/id/ydmauKQnWUE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51324815/txs/51324815%2C51324816%2C51324817%2C51324818/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAX7wlHU6AA5J9hV9olNFG_siObVLJ-AEaXAHZEu2rPJQw78IqzS9qLlvUgw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ1CSGek5zDKgsJvsF-R5RNPYlNs8Odh-kFMRf8SkhgLAiBZfKB8dze7fIptSk6pIiWbazbgsczbgkZEHqxe5Lhfww%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Noor Dubai TV
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title="Arabiya",Sama Dubai TV
